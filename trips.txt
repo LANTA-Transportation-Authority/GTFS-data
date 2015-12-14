@@ -1,0 +1,1544 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
+44,2,t1915-sl2-p2100-r234,To Broad&guetter,,10701,Route_107
+44,2,t1916-sl2-p2100-r236,To Broad&guetter,,10703,Route_107
+44,2,t1917-sl2-p2100-r234,To Broad&guetter,,10701,Route_107
+44,2,t1918-sl2-p2100-r237,To Broad&guetter,,10704,Route_107
+44,2,t1919-sl2-p2100-r323,To Broad&guetter,,10705,Route_107
+44,2,t1920-sl2-p2100-r237,To Broad&guetter,,10704,Route_107
+44,2,t1921-sl2-p2100-r235,To Broad&guetter,,10702,Route_107
+44,2,t1922-sl2-p2100-r237,To Broad&guetter,,10704,Route_107
+44,2,t1924-sl2-p2100-r235,To Broad&guetter,,10702,Route_107
+44,2,t1925-sl2-p2100-r237,To Broad&guetter,,10704,Route_107
+44,2,t1926-sl2-p2100-r235,To Broad&guetter,,10702,Route_107
+44,2,t1927-sl2-p2100-r237,To Broad&guetter,,10704,Route_107
+44,2,t1928-sl2-p2095-r236,To Atc,,10703,Route_107
+44,2,t1929-sl2-p2098-r236,To Broad&guetter,,10703,Route_107
+44,2,t1930-sl2-p2100-r234,To Broad&guetter,,10701,Route_107
+44,2,t1931-sl2-p2100-r236,To Broad&guetter,,10703,Route_107
+44,2,t1932-sl2-p2100-r234,To Broad&guetter,,10701,Route_107
+44,2,t1934-sl2-p2100-r236,To Broad&guetter,,10703,Route_107
+44,2,t1935-sl2-p2102-r236,To Crest Plaza,,10703,Route_107
+44,2,t1936-sl2-p2102-r234,To Crest Plaza,,10701,Route_107
+44,2,t1937-sl2-p2102-r236,To Crest Plaza,,10703,Route_107
+44,2,t1937-sl2-p2102-r237,To Crest Plaza,,10704,Route_107
+44,2,t1938-sl2-p2102-r234,To Crest Plaza,,10701,Route_107
+44,2,t1938-sl2-p2102-r323,To Crest Plaza,,10705,Route_107
+44,2,t1939-sl2-p2102-r237,To Crest Plaza,,10704,Route_107
+44,2,t1940-sl2-p2105-r323,To Atc,,10705,Route_107
+44,2,t1941-sl2-p2102-r237,To Crest Plaza,,10704,Route_107
+44,2,t1942-sl2-p2102-r235,To Crest Plaza,,10702,Route_107
+44,2,t1943-sl2-p2102-r237,To Crest Plaza,,10704,Route_107
+44,2,t1944-sl2-p2102-r235,To Crest Plaza,,10702,Route_107
+44,2,t1945-sl2-p2102-r237,To Crest Plaza,,10704,Route_107
+44,2,t1946-sl2-p2102-r235,To Crest Plaza,,10702,Route_107
+44,2,t1947-sl2-p2107-r237,To 17th & Chew,,10704,Route_107
+44,2,t1948-sl2-p2105-r234,To Atc,,10701,Route_107
+44,2,t1949-sl2-p2101-r234,To Crest Plaza,,10701,Route_107
+44,2,t1950-sl2-p2102-r236,To Crest Plaza,,10703,Route_107
+44,2,t1951-sl2-p2102-r234,To Crest Plaza,,10701,Route_107
+44,2,t1952-sl2-p2102-r236,To Crest Plaza,,10703,Route_107
+44,2,t1953-sl2-p2102-r234,To Crest Plaza,,10701,Route_107
+44,2,t2928-sl2-p2101-r235,To Crest Plaza,,10702,Route_107
+44,2,t4057-sl2-p2100-r235,To Broad&guetter,,10702,Route_107
+44,2,t4058-sl2-p3530-r235,To 17th & Chew,,10702,Route_107
+44,3,t1915-sl3-p2100-r234,To Broad&guetter,,10701,Route_107
+44,3,t1916-sl3-p2100-r236,To Broad&guetter,,10703,Route_107
+44,3,t1917-sl3-p2100-r234,To Broad&guetter,,10701,Route_107
+44,3,t1918-sl3-p2100-r237,To Broad&guetter,,10704,Route_107
+44,3,t1919-sl3-p2100-r234,To Broad&guetter,,10701,Route_107
+44,3,t1919-sl3-p2100-r235,To Broad&guetter,,10702,Route_107
+44,3,t1920-sl3-p2100-r237,To Broad&guetter,,10704,Route_107
+44,3,t1921-sl3-p2100-r235,To Broad&guetter,,10702,Route_107
+44,3,t1922-sl3-p2100-r237,To Broad&guetter,,10704,Route_107
+44,3,t1924-sl3-p2100-r235,To Broad&guetter,,10702,Route_107
+44,3,t1925-sl3-p2100-r237,To Broad&guetter,,10704,Route_107
+44,3,t1926-sl3-p2100-r235,To Broad&guetter,,10702,Route_107
+44,3,t1927-sl3-p2100-r237,To Broad&guetter,,10704,Route_107
+44,3,t1928-sl3-p2095-r236,To Atc,,10703,Route_107
+44,3,t1929-sl3-p2098-r236,To Broad&guetter,,10703,Route_107
+44,3,t1930-sl3-p2100-r234,To Broad&guetter,,10701,Route_107
+44,3,t1931-sl3-p2100-r236,To Broad&guetter,,10703,Route_107
+44,3,t1932-sl3-p2100-r234,To Broad&guetter,,10701,Route_107
+44,3,t1934-sl3-p2100-r236,To Broad&guetter,,10703,Route_107
+44,3,t1935-sl3-p2102-r236,To Crest Plaza,,10703,Route_107
+44,3,t1936-sl3-p2102-r234,To Crest Plaza,,10701,Route_107
+44,3,t1937-sl3-p2102-r236,To Crest Plaza,,10703,Route_107
+44,3,t1937-sl3-p2102-r237,To Crest Plaza,,10704,Route_107
+44,3,t1938-sl3-p2102-r234,To Crest Plaza,,10701,Route_107
+44,3,t1939-sl3-p2102-r237,To Crest Plaza,,10704,Route_107
+44,3,t1940-sl3-p2102-r235,To Crest Plaza,,10702,Route_107
+44,3,t1941-sl3-p2102-r237,To Crest Plaza,,10704,Route_107
+44,3,t1942-sl3-p2102-r235,To Crest Plaza,,10702,Route_107
+44,3,t1943-sl3-p2102-r237,To Crest Plaza,,10704,Route_107
+44,3,t1944-sl3-p2102-r235,To Crest Plaza,,10702,Route_107
+44,3,t1945-sl3-p2102-r237,To Crest Plaza,,10704,Route_107
+44,3,t1946-sl3-p2102-r235,To Crest Plaza,,10702,Route_107
+44,3,t1947-sl3-p2107-r237,To 17th & Chew,,10704,Route_107
+44,3,t1948-sl3-p2105-r234,To Atc,,10701,Route_107
+44,3,t1949-sl3-p2101-r234,To Crest Plaza,,10701,Route_107
+44,3,t1950-sl3-p2102-r236,To Crest Plaza,,10703,Route_107
+44,3,t1951-sl3-p2102-r234,To Crest Plaza,,10701,Route_107
+44,3,t1952-sl3-p2102-r236,To Crest Plaza,,10703,Route_107
+44,3,t1953-sl3-p2102-r234,To Crest Plaza,,10701,Route_107
+44,3,t4057-sl3-p2100-r235,To Broad&guetter,,10702,Route_107
+44,3,t4058-sl3-p3530-r235,To 17th & Chew,,10702,Route_107
+44,4,t1915-sl4-p2100-r234,To Broad&guetter,,10701,Route_107
+44,4,t1916-sl4-p2100-r236,To Broad&guetter,,10703,Route_107
+44,4,t1917-sl4-p2100-r234,To Broad&guetter,,10701,Route_107
+44,4,t1917-sl4-p2100-r235,To Broad&guetter,,10702,Route_107
+44,4,t1918-sl4-p2100-r236,To Broad&guetter,,10703,Route_107
+44,4,t1919-sl4-p2100-r235,To Broad&guetter,,10702,Route_107
+44,4,t1920-sl4-p2100-r236,To Broad&guetter,,10703,Route_107
+44,4,t1921-sl4-p2100-r235,To Broad&guetter,,10702,Route_107
+44,4,t1922-sl4-p2100-r236,To Broad&guetter,,10703,Route_107
+44,4,t1924-sl4-p2100-r235,To Broad&guetter,,10702,Route_107
+44,4,t1932-sl4-p2100-r234,To Broad&guetter,,10701,Route_107
+44,4,t1934-sl4-p2100-r236,To Broad&guetter,,10703,Route_107
+44,4,t1935-sl4-p2102-r236,To Crest Plaza,,10703,Route_107
+44,4,t1936-sl4-p2102-r234,To Crest Plaza,,10701,Route_107
+44,4,t1937-sl4-p2102-r236,To Crest Plaza,,10703,Route_107
+44,4,t1938-sl4-p2102-r235,To Crest Plaza,,10702,Route_107
+44,4,t1939-sl4-p2102-r236,To Crest Plaza,,10703,Route_107
+44,4,t1940-sl4-p2102-r235,To Crest Plaza,,10702,Route_107
+44,4,t1941-sl4-p2102-r236,To Crest Plaza,,10703,Route_107
+44,4,t1942-sl4-p2102-r235,To Crest Plaza,,10702,Route_107
+44,4,t1953-sl4-p2102-r234,To Crest Plaza,,10701,Route_107
+44,4,t2937-sl4-p2101-r234,To Crest Plaza,,10701,Route_107
+45,2,t1954-sl2-p2094-r168,To Easton,,10101,Route_101
+45,2,t1955-sl2-p2094-r170,To Easton,,10103,Route_101
+45,2,t1956-sl2-p2094-r168,To Easton,,10101,Route_101
+45,2,t1957-sl2-p2094-r170,To Easton,,10103,Route_101
+45,2,t1958-sl2-p2094-r168,To Easton,,10101,Route_101
+45,2,t1959-sl2-p2094-r171,To Easton,,10104,Route_101
+45,2,t1960-sl2-p2094-r169,To Easton,,10102,Route_101
+45,2,t1961-sl2-p2094-r171,To Easton,,10104,Route_101
+45,2,t1962-sl2-p2094-r169,To Easton,,10102,Route_101
+45,2,t1963-sl2-p2094-r171,To Easton,,10104,Route_101
+45,2,t1964-sl2-p2094-r169,To Easton,,10102,Route_101
+45,2,t1965-sl2-p2094-r171,To Easton,,10104,Route_101
+45,2,t1966-sl2-p2094-r169,To Easton,,10102,Route_101
+45,2,t1967-sl2-p2094-r168,To Easton,,10101,Route_101
+45,2,t1968-sl2-p2094-r170,To Easton,,10103,Route_101
+45,2,t1969-sl2-p2094-r168,To Easton,,10101,Route_101
+45,2,t1970-sl2-p2094-r170,To Easton,,10103,Route_101
+45,2,t1971-sl2-p2093-r170,To Broad&guetter,,10103,Route_101
+45,2,t1972-sl2-p2717-r168,To Broad&guetter,,10101,Route_101
+45,2,t1973-sl2-p2717-r170,To Broad&guetter,,10103,Route_101
+45,2,t1974-sl2-p2093-r168,To Broad&guetter,,10101,Route_101
+45,2,t1975-sl2-p2093-r171,To Broad&guetter,,10104,Route_101
+45,2,t1976-sl2-p2093-r169,To Broad&guetter,,10102,Route_101
+45,2,t1977-sl2-p2093-r171,To Broad&guetter,,10104,Route_101
+45,2,t1978-sl2-p2093-r169,To Broad&guetter,,10102,Route_101
+45,2,t1979-sl2-p2093-r171,To Broad&guetter,,10104,Route_101
+45,2,t1980-sl2-p2093-r169,To Broad&guetter,,10102,Route_101
+45,2,t1981-sl2-p2093-r171,To Broad&guetter,,10104,Route_101
+45,2,t1982-sl2-p2093-r169,To Broad&guetter,,10102,Route_101
+45,2,t1983-sl2-p2093-r168,To Broad&guetter,,10101,Route_101
+45,2,t1984-sl2-p2093-r170,To Broad&guetter,,10103,Route_101
+45,2,t1985-sl2-p2093-r168,To Broad&guetter,,10101,Route_101
+45,2,t1986-sl2-p2093-r170,To Broad&guetter,,10103,Route_101
+45,2,t1987-sl2-p2717-r168,To Broad&guetter,,10101,Route_101
+45,3,t1954-sl3-p2094-r168,To Easton,,10101,Route_101
+45,3,t1955-sl3-p2094-r170,To Easton,,10103,Route_101
+45,3,t1956-sl3-p2094-r168,To Easton,,10101,Route_101
+45,3,t1957-sl3-p2094-r170,To Easton,,10103,Route_101
+45,3,t1958-sl3-p2094-r168,To Easton,,10101,Route_101
+45,3,t1959-sl3-p2094-r171,To Easton,,10104,Route_101
+45,3,t1960-sl3-p2094-r169,To Easton,,10102,Route_101
+45,3,t1961-sl3-p2094-r171,To Easton,,10104,Route_101
+45,3,t1962-sl3-p2094-r169,To Easton,,10102,Route_101
+45,3,t1963-sl3-p2094-r171,To Easton,,10104,Route_101
+45,3,t1964-sl3-p2094-r169,To Easton,,10102,Route_101
+45,3,t1965-sl3-p2094-r171,To Easton,,10104,Route_101
+45,3,t1966-sl3-p2094-r169,To Easton,,10102,Route_101
+45,3,t1967-sl3-p2094-r168,To Easton,,10101,Route_101
+45,3,t1968-sl3-p2094-r170,To Easton,,10103,Route_101
+45,3,t1969-sl3-p2094-r168,To Easton,,10101,Route_101
+45,3,t1970-sl3-p2094-r170,To Easton,,10103,Route_101
+45,3,t1971-sl3-p2093-r170,To Broad&guetter,,10103,Route_101
+45,3,t1972-sl3-p2717-r168,To Broad&guetter,,10101,Route_101
+45,3,t1973-sl3-p2717-r170,To Broad&guetter,,10103,Route_101
+45,3,t1974-sl3-p2093-r168,To Broad&guetter,,10101,Route_101
+45,3,t1975-sl3-p2093-r171,To Broad&guetter,,10104,Route_101
+45,3,t1976-sl3-p2093-r169,To Broad&guetter,,10102,Route_101
+45,3,t1977-sl3-p2093-r171,To Broad&guetter,,10104,Route_101
+45,3,t1978-sl3-p2093-r169,To Broad&guetter,,10102,Route_101
+45,3,t1979-sl3-p2093-r171,To Broad&guetter,,10104,Route_101
+45,3,t1980-sl3-p2093-r169,To Broad&guetter,,10102,Route_101
+45,3,t1981-sl3-p2093-r171,To Broad&guetter,,10104,Route_101
+45,3,t1982-sl3-p2093-r169,To Broad&guetter,,10102,Route_101
+45,3,t1983-sl3-p2093-r168,To Broad&guetter,,10101,Route_101
+45,3,t1984-sl3-p2093-r170,To Broad&guetter,,10103,Route_101
+45,3,t1985-sl3-p2093-r168,To Broad&guetter,,10101,Route_101
+45,3,t1986-sl3-p2093-r170,To Broad&guetter,,10103,Route_101
+45,3,t1987-sl3-p2717-r168,To Broad&guetter,,10101,Route_101
+45,4,t1954-sl4-p2094-r170,To Easton,,10103,Route_101
+45,4,t1955-sl4-p2094-r168,To Easton,,10101,Route_101
+45,4,t1956-sl4-p2094-r170,To Easton,,10103,Route_101
+45,4,t1957-sl4-p2094-r168,To Easton,,10101,Route_101
+45,4,t1958-sl4-p2094-r170,To Easton,,10103,Route_101
+45,4,t1959-sl4-p2094-r168,To Easton,,10101,Route_101
+45,4,t1960-sl4-p2094-r170,To Easton,,10103,Route_101
+45,4,t1961-sl4-p2094-r168,To Easton,,10101,Route_101
+45,4,t1970-sl4-p2094-r168,To Easton,,10101,Route_101
+45,4,t1971-sl4-p2093-r168,To Broad&guetter,,10101,Route_101
+45,4,t1972-sl4-p2717-r170,To Broad&guetter,,10103,Route_101
+45,4,t1973-sl4-p2093-r168,To Broad&guetter,,10101,Route_101
+45,4,t1974-sl4-p2717-r170,To Broad&guetter,,10103,Route_101
+45,4,t1975-sl4-p2093-r168,To Broad&guetter,,10101,Route_101
+45,4,t1976-sl4-p2093-r170,To Broad&guetter,,10103,Route_101
+45,4,t1977-sl4-p2093-r168,To Broad&guetter,,10101,Route_101
+45,4,t1978-sl4-p2093-r170,To Broad&guetter,,10103,Route_101
+45,4,t1987-sl4-p2717-r170,To Broad&guetter,,10103,Route_101
+46,2,t1988-sl2-p2090-r187,To Easton,,22006,Route_220
+46,2,t1989-sl2-p2090-r280,To Easton,,22002,Route_220
+46,2,t1990-sl2-p2090-r186,To Easton,,22004,Route_220
+46,2,t1991-sl2-p2220-r187,To Easton,,22006,Route_220
+46,2,t1992-sl2-p2090-r280,To Easton,,22002,Route_220
+46,2,t1993-sl2-p2220-r186,To Easton,,22004,Route_220
+46,2,t1994-sl2-p2090-r187,To Easton,,22006,Route_220
+46,2,t1995-sl2-p2089-r280,Eastbound,,22002,Route_220
+46,2,t1996-sl2-p2088-r186,Eastbound,,22004,Route_220
+46,2,t1997-sl2-p2044-r279,To Easton,,22001,Route_220
+46,2,t1998-sl2-p2220-r182,To Easton,,22003,Route_220
+46,2,t1999-sl2-p2090-r185,To Easton,,22005,Route_220
+46,2,t2000-sl2-p2090-r279,To Easton,,22001,Route_220
+46,2,t2001-sl2-p2090-r182,To Easton,,22003,Route_220
+46,2,t2001-sl2-p2090-r186,To Easton,,22004,Route_220
+46,2,t2002-sl2-p2087-r279,Westbound,,22001,Route_220
+46,2,t2003-sl2-p2087-r186,Westbound,,22004,Route_220
+46,2,t2004-sl2-p2087-r187,Westbound,,22006,Route_220
+46,2,t2005-sl2-p2087-r280,Westbound,,22002,Route_220
+46,2,t2006-sl2-p2221-r186,To Atc,,22004,Route_220
+46,2,t2007-sl2-p2087-r187,Westbound,,22006,Route_220
+46,2,t2008-sl2-p2221-r280,To Atc,,22002,Route_220
+46,2,t2009-sl2-p2086-r186,Westbound,,22004,Route_220
+46,2,t2010-sl2-p2085-r280,Westbound,,22002,Route_220
+46,2,t2011-sl2-p2045-r182,To Atc,,22003,Route_220
+46,2,t2012-sl2-p2045-r185,To Atc,,22005,Route_220
+46,2,t2013-sl2-p2087-r279,Westbound,,22001,Route_220
+46,2,t2014-sl2-p2087-r182,Westbound,,22003,Route_220
+46,2,t2015-sl2-p2087-r185,Westbound,,22005,Route_220
+46,2,t2015-sl2-p2087-r187,Westbound,,22006,Route_220
+46,3,t1988-sl3-p2090-r187,To Easton,,22006,Route_220
+46,3,t1989-sl3-p2090-r279,To Easton,,22001,Route_220
+46,3,t1990-sl3-p2090-r186,To Easton,,22004,Route_220
+46,3,t1991-sl3-p2220-r187,To Easton,,22006,Route_220
+46,3,t1992-sl3-p2090-r280,To Easton,,22002,Route_220
+46,3,t1993-sl3-p2220-r186,To Easton,,22004,Route_220
+46,3,t1994-sl3-p2090-r187,To Easton,,22006,Route_220
+46,3,t1995-sl3-p2089-r280,Eastbound,,22002,Route_220
+46,3,t1996-sl3-p2088-r186,Eastbound,,22004,Route_220
+46,3,t1997-sl3-p2044-r279,To Easton,,22001,Route_220
+46,3,t1998-sl3-p2220-r182,To Easton,,22003,Route_220
+46,3,t1999-sl3-p2090-r185,To Easton,,22005,Route_220
+46,3,t2000-sl3-p2090-r279,To Easton,,22001,Route_220
+46,3,t2001-sl3-p2090-r182,To Easton,,22003,Route_220
+46,3,t2001-sl3-p2090-r186,To Easton,,22004,Route_220
+46,3,t2002-sl3-p2087-r279,Westbound,,22001,Route_220
+46,3,t2003-sl3-p2087-r186,Westbound,,22004,Route_220
+46,3,t2004-sl3-p2087-r187,Westbound,,22006,Route_220
+46,3,t2005-sl3-p2087-r279,Westbound,,22001,Route_220
+46,3,t2006-sl3-p2221-r186,To Atc,,22004,Route_220
+46,3,t2007-sl3-p2087-r187,Westbound,,22006,Route_220
+46,3,t2008-sl3-p2221-r280,To Atc,,22002,Route_220
+46,3,t2009-sl3-p2086-r186,Westbound,,22004,Route_220
+46,3,t2010-sl3-p2085-r280,Westbound,,22002,Route_220
+46,3,t2011-sl3-p2045-r182,To Atc,,22003,Route_220
+46,3,t2012-sl3-p2045-r185,To Atc,,22005,Route_220
+46,3,t2013-sl3-p2087-r279,Westbound,,22001,Route_220
+46,3,t2014-sl3-p2087-r182,Westbound,,22003,Route_220
+46,3,t2015-sl3-p2087-r185,Westbound,,22005,Route_220
+46,3,t2015-sl3-p2087-r187,Westbound,,22006,Route_220
+47,2,t1862-sl2-p4048-r206,Westbound,,10210,Route_102
+47,2,t2016-sl2-p2027-r202,To Bethlehem,,10206,Route_102
+47,2,t2047-sl2-p4045-r202,To Bethlehem,,10206,Route_102
+47,2,t2049-sl2-p4045-r205,To Bethlehem,,10209,Route_102
+47,2,t2051-sl2-p4045-r202,To Bethlehem,,10206,Route_102
+47,2,t2053-sl2-p2027-r205,To Bethlehem,,10209,Route_102
+47,2,t3462-sl2-p2076-r201,To Atc,,10205,Route_102
+47,2,t3471-sl2-p2992-r197,To Bethlehem,,10201,Route_102
+47,2,t4183-sl2-p2083-r326,To Bethlehem,,10212,Route_102
+47,2,t4184-sl2-p2083-r204,To Bethlehem,,10208,Route_102
+47,2,t4185-sl2-p2083-r201,To Bethlehem,,10205,Route_102
+47,2,t4187-sl2-p2083-r339,To Bethlehem,,10213,Route_102
+47,2,t4368-sl2-p2992-r198,To Bethlehem,,10202,Route_102
+47,2,t4370-sl2-p2992-r203,To Bethlehem,,10207,Route_102
+47,2,t4372-sl2-p2992-r200,To Bethlehem,,10204,Route_102
+47,2,t4374-sl2-p2992-r339,To Bethlehem,,10213,Route_102
+47,2,t4375-sl2-p2027-r307,To Bethlehem,,10211,Route_102
+47,2,t4377-sl2-p4045-r206,To Bethlehem,,10210,Route_102
+47,2,t4379-sl2-p4045-r307,To Bethlehem,,10211,Route_102
+47,2,t4381-sl2-p4045-r206,To Bethlehem,,10210,Route_102
+47,2,t4383-sl2-p2083-r326,To Bethlehem,,10212,Route_102
+47,2,t4384-sl2-p4045-r307,To Bethlehem,,10211,Route_102
+47,2,t4385-sl2-p2992-r204,To Bethlehem,,10208,Route_102
+47,2,t4386-sl2-p2992-r201,To Bethlehem,,10205,Route_102
+47,2,t4387-sl2-p2992-r326,To Bethlehem,,10212,Route_102
+47,2,t4388-sl2-p2992-r204,To Bethlehem,,10208,Route_102
+47,2,t4389-sl2-p2027-r198,To Bethlehem,,10202,Route_102
+47,2,t4390-sl2-p2084-r197,To S Bethlehem,,10201,Route_102
+47,2,t4391-sl2-p2994-r200,To S Bethlehem,,10204,Route_102
+47,2,t4393-sl2-p2083-r198,To Bethlehem,,10202,Route_102
+47,2,t4395-sl2-p2083-r203,To Bethlehem,,10207,Route_102
+47,2,t4398-sl2-p2992-r200,To Bethlehem,,10204,Route_102
+47,2,t4399-sl2-p4048-r205,Westbound,,10209,Route_102
+47,2,t4400-sl2-p2192-r203,To Lv Hosp Cc,,10207,Route_102
+47,2,t4402-sl2-p4048-r202,Westbound,,10206,Route_102
+47,2,t4403-sl2-p2192-r200,To Lv Hosp Cc,,10204,Route_102
+47,2,t4405-sl2-p2192-r198,To Lv Hosp Cc,,10202,Route_102
+47,2,t4407-sl2-p2192-r203,To Lv Hosp Cc,,10207,Route_102
+47,2,t4407-sl2-p2192-r204,To Lv Hosp Cc,,10208,Route_102
+47,2,t4409-sl2-p2192-r200,To Lv Hosp Cc,,10204,Route_102
+47,2,t4409-sl2-p2192-r201,To Lv Hosp Cc,,10205,Route_102
+47,2,t4411-sl2-p2009-r307,Westbound,,10211,Route_102
+47,2,t4412-sl2-p2082-r339,To Lv Hosp Cc,,10213,Route_102
+47,2,t4414-sl2-p2009-r206,Westbound,,10210,Route_102
+47,2,t4415-sl2-p2082-r326,To Lv Hosp Cc,,10212,Route_102
+47,2,t4417-sl2-p2009-r307,Westbound,,10211,Route_102
+47,2,t4418-sl2-p2082-r204,To Lv Hosp Cc,,10208,Route_102
+47,2,t4420-sl2-p2009-r206,Westbound,,10210,Route_102
+47,2,t4421-sl2-p2192-r201,To Lv Hosp Cc,,10205,Route_102
+47,2,t4423-sl2-p2192-r326,To Lv Hosp Cc,,10212,Route_102
+47,2,t4425-sl2-p2192-r204,To Lv Hosp Cc,,10208,Route_102
+47,2,t4427-sl2-p2192-r201,To Lv Hosp Cc,,10205,Route_102
+47,2,t4429-sl2-p4042-r326,To Atc,,10212,Route_102
+47,2,t4430-sl2-p2081-r198,To Lv Hosp Cc,,10202,Route_102
+47,2,t4432-sl2-p4049-r203,To Lv Hosp Cc,,10207,Route_102
+47,2,t4434-sl2-p2009-r202,Westbound,,10206,Route_102
+47,2,t4435-sl2-p2082-r197,To Lv Hosp Cc,,10201,Route_102
+47,2,t4437-sl2-p2009-r205,Westbound,,10209,Route_102
+47,2,t4438-sl2-p2082-r200,To Lv Hosp Cc,,10204,Route_102
+47,2,t4440-sl2-p4048-r202,Westbound,,10206,Route_102
+47,2,t4441-sl2-p2192-r198,To Lv Hosp Cc,,10202,Route_102
+47,3,t3462-sl3-p2076-r198,To Atc,,10202,Route_102
+47,3,t3516-sl3-p4048-r197,Westbound,,10201,Route_102
+47,3,t3645-sl3-p2992-r200,To Bethlehem,,10204,Route_102
+47,3,t4188-sl3-p2992-r202,To Bethlehem,,10206,Route_102
+47,3,t4189-sl3-p2992-r198,To Bethlehem,,10202,Route_102
+47,3,t4190-sl3-p2992-r202,To Bethlehem,,10206,Route_102
+47,3,t4191-sl3-p2076-r200,To Atc,,10204,Route_102
+47,3,t4194-sl3-p2842-r197,To S Bethlehem,,10201,Route_102
+47,3,t4211-sl3-p3777-r202,To Broad&guetter,,10206,Route_102
+47,3,t4367-sl3-p2992-r199,To Bethlehem,,10203,Route_102
+47,3,t4369-sl3-p2992-r197,To Bethlehem,,10201,Route_102
+47,3,t4371-sl3-p2992-r201,To Bethlehem,,10205,Route_102
+47,3,t4373-sl3-p2992-r200,To Bethlehem,,10204,Route_102
+47,3,t4376-sl3-p2992-r198,To Bethlehem,,10202,Route_102
+47,3,t4378-sl3-p2992-r202,To Bethlehem,,10206,Route_102
+47,3,t4380-sl3-p2992-r200,To Bethlehem,,10204,Route_102
+47,3,t4382-sl3-p2992-r198,To Bethlehem,,10202,Route_102
+47,3,t4392-sl3-p2992-r201,To Bethlehem,,10205,Route_102
+47,3,t4394-sl3-p2992-r199,To Bethlehem,,10203,Route_102
+47,3,t4396-sl3-p2992-r197,To Bethlehem,,10201,Route_102
+47,3,t4397-sl3-p2992-r201,To Bethlehem,,10205,Route_102
+47,3,t4401-sl3-p2192-r201,To Lv Hosp Cc,,10205,Route_102
+47,3,t4404-sl3-p2192-r199,To Lv Hosp Cc,,10203,Route_102
+47,3,t4406-sl3-p2192-r197,To Lv Hosp Cc,,10201,Route_102
+47,3,t4408-sl3-p2192-r201,To Lv Hosp Cc,,10205,Route_102
+47,3,t4410-sl3-p2192-r200,To Lv Hosp Cc,,10204,Route_102
+47,3,t4413-sl3-p2192-r198,To Lv Hosp Cc,,10202,Route_102
+47,3,t4416-sl3-p2192-r202,To Lv Hosp Cc,,10206,Route_102
+47,3,t4419-sl3-p2192-r200,To Lv Hosp Cc,,10204,Route_102
+47,3,t4422-sl3-p2192-r198,To Lv Hosp Cc,,10202,Route_102
+47,3,t4424-sl3-p2192-r202,To Lv Hosp Cc,,10206,Route_102
+47,3,t4426-sl3-p2192-r200,To Lv Hosp Cc,,10204,Route_102
+47,3,t4428-sl3-p2192-r198,To Lv Hosp Cc,,10202,Route_102
+47,3,t4431-sl3-p2192-r199,To Lv Hosp Cc,,10203,Route_102
+47,3,t4433-sl3-p2192-r197,To Lv Hosp Cc,,10201,Route_102
+47,3,t4436-sl3-p2192-r201,To Lv Hosp Cc,,10205,Route_102
+47,3,t4439-sl3-p2192-r199,To Lv Hosp Cc,,10203,Route_102
+47,3,t4442-sl3-p2192-r197,To Lv Hosp Cc,,10201,Route_102
+47,4,t1750-sl4-p2192-r198,To Lv Hosp Cc,,10202,Route_102
+47,4,t1751-sl4-p2192-r197,To Lv Hosp Cc,,10201,Route_102
+47,4,t1752-sl4-p2192-r199,To Lv Hosp Cc,,10203,Route_102
+47,4,t3486-sl4-p2192-r198,To Lv Hosp Cc,,10202,Route_102
+47,4,t3491-sl4-p2192-r197,To Lv Hosp Cc,,10201,Route_102
+47,4,t3496-sl4-p2192-r199,To Lv Hosp Cc,,10203,Route_102
+47,4,t3501-sl4-p2192-r198,To Lv Hosp Cc,,10202,Route_102
+47,4,t3506-sl4-p2192-r197,To Lv Hosp Cc,,10201,Route_102
+47,4,t4186-sl4-p2076-r198,To Atc,,10202,Route_102
+47,4,t4207-sl4-p3777-r199,To Broad&guetter,,10203,Route_102
+47,4,t4367-sl4-p2992-r199,To Bethlehem,,10203,Route_102
+47,4,t4369-sl4-p2992-r198,To Bethlehem,,10202,Route_102
+47,4,t4371-sl4-p2992-r197,To Bethlehem,,10201,Route_102
+47,4,t4373-sl4-p2992-r199,To Bethlehem,,10203,Route_102
+47,4,t4376-sl4-p2992-r198,To Bethlehem,,10202,Route_102
+47,4,t4378-sl4-p2992-r197,To Bethlehem,,10201,Route_102
+47,4,t4380-sl4-p2992-r199,To Bethlehem,,10203,Route_102
+47,4,t4397-sl4-p2992-r197,To Bethlehem,,10201,Route_102
+48,2,t1766-sl2-p2132-r215,To S Bethlehem,,10311,Route_103
+48,2,t1864-sl2-p2132-r207,To S Bethlehem,,10301,Route_103
+48,2,t2095-sl2-p2074-r209,To Northampton,,10303,Route_103
+48,2,t2096-sl2-p2074-r213,To Northampton,,10309,Route_103
+48,2,t2097-sl2-p2074-r207,To Northampton,,10301,Route_103
+48,2,t2097-sl2-p2074-r208,To Northampton,,10302,Route_103
+48,2,t2098-sl2-p2074-r215,To Northampton,,10311,Route_103
+48,2,t2098-sl2-p2074-r216,To Northampton,,10312,Route_103
+48,2,t2099-sl2-p2074-r210,To Northampton,,10304,Route_103
+48,2,t2100-sl2-p2072-r219,To Northampton,,10306,Route_103
+48,2,t2101-sl2-p2051-r221,To Northampton,,10316,Route_103
+48,2,t2102-sl2-p2074-r214,To Northampton,,10310,Route_103
+48,2,t2103-sl2-p2074-r292,To Northampton,,10308,Route_103
+48,2,t2104-sl2-p2074-r208,To Northampton,,10302,Route_103
+48,2,t2105-sl2-p2031-r220,To Atc,,10314,Route_103
+48,2,t2106-sl2-p2074-r216,To Northampton,,10312,Route_103
+48,2,t2107-sl2-p2074-r210,To Northampton,,10304,Route_103
+48,2,t2108-sl2-p2071-r214,To Northampton,,10310,Route_103
+48,2,t2109-sl2-p2071-r208,To Northampton,,10302,Route_103
+48,2,t2110-sl2-p2053-r216,To Atc,,10312,Route_103
+48,2,t2111-sl2-p2053-r210,To Atc,,10304,Route_103
+48,2,t2112-sl2-p2074-r207,To Northampton,,10301,Route_103
+48,2,t2113-sl2-p2074-r211,To Northampton,,10305,Route_103
+48,2,t2114-sl2-p2074-r215,To Northampton,,10311,Route_103
+48,2,t2115-sl2-p2074-r217,To Northampton,,10313,Route_103
+48,2,t2117-sl2-p2031-r212,To Atc,,10307,Route_103
+48,2,t2118-sl2-p2074-r213,To Northampton,,10309,Route_103
+48,2,t2119-sl2-p2031-r218,To Atc,,10315,Route_103
+48,2,t2120-sl2-p2074-r207,To Northampton,,10301,Route_103
+48,2,t2122-sl2-p2132-r213,To S Bethlehem,,10309,Route_103
+48,2,t2123-sl2-p2132-r209,To S Bethlehem,,10303,Route_103
+48,2,t2123-sl2-p2132-r210,To S Bethlehem,,10304,Route_103
+48,2,t2124-sl2-p2069-r213,To Atc,,10309,Route_103
+48,2,t2125-sl2-p2132-r208,To S Bethlehem,,10302,Route_103
+48,2,t2126-sl2-p2030-r292,To S Bethlehem,,10308,Route_103
+48,2,t2127-sl2-p2039-r220,To S Bethlehem,,10314,Route_103
+48,2,t2127-sl2-p3910-r216,To S Bethlehem,,10312,Route_103
+48,2,t2128-sl2-p2132-r219,To S Bethlehem,,10306,Route_103
+48,2,t2129-sl2-p2029-r210,To S Bethlehem,,10304,Route_103
+48,2,t2130-sl2-p2069-r221,To Atc,,10316,Route_103
+48,2,t2131-sl2-p2132-r214,To S Bethlehem,,10310,Route_103
+48,2,t2136-sl2-p2030-r217,To S Bethlehem,,10313,Route_103
+48,2,t2137-sl2-p2039-r209,To S Bethlehem,,10303,Route_103
+48,2,t2137-sl2-p2132-r212,To S Bethlehem,,10307,Route_103
+48,2,t2138-sl2-p2132-r213,To S Bethlehem,,10309,Route_103
+48,2,t2139-sl2-p2132-r218,To S Bethlehem,,10315,Route_103
+48,2,t2140-sl2-p2132-r207,To S Bethlehem,,10301,Route_103
+48,2,t2141-sl2-p2069-r211,To Atc,,10305,Route_103
+48,2,t2142-sl2-p2132-r215,To S Bethlehem,,10311,Route_103
+48,2,t2143-sl2-p2069-r217,To Atc,,10313,Route_103
+48,2,t2144-sl2-p2132-r209,To S Bethlehem,,10303,Route_103
+48,2,t3011-sl2-p2070-r214,To S Bethlehem,,10310,Route_103
+48,2,t3687-sl2-p2068-r214,To S Bethlehem,,10310,Route_103
+48,2,t4342-sl2-p3909-r215,To Northampton,,10311,Route_103
+48,2,t4345-sl2-p3909-r209,To Northampton,,10303,Route_103
+48,2,t4490-sl2-p2132-r208,To S Bethlehem,,10302,Route_103
+48,2,t4491-sl2-p2132-r216,To S Bethlehem,,10312,Route_103
+48,2,t4492-sl2-p2132-r210,To S Bethlehem,,10304,Route_103
+48,3,t1766-sl3-p2132-r212,To S Bethlehem,,10307,Route_103
+48,3,t1766-sl3-p2132-r292,To S Bethlehem,,10308,Route_103
+48,3,t1864-sl3-p2132-r207,To S Bethlehem,,10301,Route_103
+48,3,t2094-sl3-p2074-r212,To Northampton,,10307,Route_103
+48,3,t2096-sl3-p2074-r211,To Northampton,,10305,Route_103
+48,3,t2097-sl3-p2074-r207,To Northampton,,10301,Route_103
+48,3,t2097-sl3-p2074-r208,To Northampton,,10302,Route_103
+48,3,t2098-sl3-p2074-r292,To Northampton,,10308,Route_103
+48,3,t2099-sl3-p2074-r210,To Northampton,,10304,Route_103
+48,3,t2102-sl3-p2074-r219,To Northampton,,10306,Route_103
+48,3,t2104-sl3-p2074-r208,To Northampton,,10302,Route_103
+48,3,t2106-sl3-p2074-r292,To Northampton,,10308,Route_103
+48,3,t2107-sl3-p2074-r210,To Northampton,,10304,Route_103
+48,3,t2108-sl3-p2071-r219,To Northampton,,10306,Route_103
+48,3,t2109-sl3-p2071-r208,To Northampton,,10302,Route_103
+48,3,t2110-sl3-p2053-r292,To Atc,,10308,Route_103
+48,3,t2111-sl3-p2053-r210,To Atc,,10304,Route_103
+48,3,t2112-sl3-p2074-r207,To Northampton,,10301,Route_103
+48,3,t2114-sl3-p2074-r212,To Northampton,,10307,Route_103
+48,3,t2118-sl3-p2074-r211,To Northampton,,10305,Route_103
+48,3,t2120-sl3-p2074-r207,To Northampton,,10301,Route_103
+48,3,t2122-sl3-p2132-r211,To S Bethlehem,,10305,Route_103
+48,3,t2123-sl3-p2132-r209,To S Bethlehem,,10303,Route_103
+48,3,t2123-sl3-p2132-r210,To S Bethlehem,,10304,Route_103
+48,3,t2124-sl3-p3910-r211,To S Bethlehem,,10305,Route_103
+48,3,t2124-sl3-p3910-r219,To S Bethlehem,,10306,Route_103
+48,3,t2125-sl3-p2132-r208,To S Bethlehem,,10302,Route_103
+48,3,t2127-sl3-p3910-r292,To S Bethlehem,,10308,Route_103
+48,3,t2129-sl3-p2132-r210,To S Bethlehem,,10304,Route_103
+48,3,t2131-sl3-p2132-r219,To S Bethlehem,,10306,Route_103
+48,3,t2137-sl3-p2039-r209,To S Bethlehem,,10303,Route_103
+48,3,t2138-sl3-p2132-r211,To S Bethlehem,,10305,Route_103
+48,3,t2140-sl3-p2132-r207,To S Bethlehem,,10301,Route_103
+48,3,t2142-sl3-p2132-r212,To S Bethlehem,,10307,Route_103
+48,3,t2144-sl3-p2132-r209,To S Bethlehem,,10303,Route_103
+48,3,t3687-sl3-p2068-r219,To S Bethlehem,,10306,Route_103
+48,3,t4343-sl3-p3909-r209,To Northampton,,10303,Route_103
+48,3,t4345-sl3-p3909-r209,To Northampton,,10303,Route_103
+48,3,t4490-sl3-p2132-r208,To S Bethlehem,,10302,Route_103
+48,3,t4491-sl3-p2132-r292,To S Bethlehem,,10308,Route_103
+48,3,t4492-sl3-p2132-r210,To S Bethlehem,,10304,Route_103
+48,4,t1766-sl4-p2132-r211,To S Bethlehem,,10305,Route_103
+48,4,t1864-sl4-p2132-r207,To S Bethlehem,,10301,Route_103
+48,4,t2096-sl4-p2074-r212,To Northampton,,10307,Route_103
+48,4,t2097-sl4-p2074-r207,To Northampton,,10301,Route_103
+48,4,t2098-sl4-p2074-r211,To Northampton,,10305,Route_103
+48,4,t2099-sl4-p2074-r209,To Northampton,,10303,Route_103
+48,4,t2102-sl4-p2074-r212,To Northampton,,10307,Route_103
+48,4,t2104-sl4-p2074-r207,To Northampton,,10301,Route_103
+48,4,t2121-sl4-p2051-r207,To Northampton,,10301,Route_103
+48,4,t2122-sl4-p2132-r212,To S Bethlehem,,10307,Route_103
+48,4,t2123-sl4-p2132-r209,To S Bethlehem,,10303,Route_103
+48,4,t2124-sl4-p3910-r212,To S Bethlehem,,10307,Route_103
+48,4,t2125-sl4-p2132-r207,To S Bethlehem,,10301,Route_103
+48,4,t2127-sl4-p2132-r211,To S Bethlehem,,10305,Route_103
+48,4,t2129-sl4-p3910-r209,To S Bethlehem,,10303,Route_103
+48,4,t2144-sl4-p2132-r209,To S Bethlehem,,10303,Route_103
+48,4,t4342-sl4-p3909-r211,To Northampton,,10305,Route_103
+48,4,t4343-sl4-p3909-r209,To Northampton,,10303,Route_103
+49,2,t2146-sl2-p2067-r226,To Lv Mall,,10407,Route_104
+49,2,t2148-sl2-p2067-r223,To Lv Mall,,10403,Route_104
+49,2,t2150-sl2-p2067-r226,To Lv Mall,,10407,Route_104
+49,2,t2150-sl2-p2067-r227,To Lv Mall,,10408,Route_104
+49,2,t2152-sl2-p2067-r223,To Lv Mall,,10403,Route_104
+49,2,t2152-sl2-p2067-r224,To Lv Mall,,10404,Route_104
+49,2,t2154-sl2-p2067-r227,To Lv Mall,,10408,Route_104
+49,2,t2155-sl2-p2067-r228,To Lv Mall,,10402,Route_104
+49,2,t2157-sl2-p2067-r224,To Lv Mall,,10404,Route_104
+49,2,t2158-sl2-p2067-r229,To Lv Mall,,10406,Route_104
+49,2,t2160-sl2-p2067-r227,To Lv Mall,,10408,Route_104
+49,2,t2161-sl2-p2067-r228,To Lv Mall,,10402,Route_104
+49,2,t2162-sl2-p2067-r224,To Lv Mall,,10404,Route_104
+49,2,t2163-sl2-p2067-r227,To Lv Mall,,10408,Route_104
+49,2,t2164-sl2-p2067-r224,To Lv Mall,,10404,Route_104
+49,2,t2166-sl2-p2054-r222,To Lv Mall,,10401,Route_104
+49,2,t2167-sl2-p2067-r223,To Lv Mall,,10403,Route_104
+49,2,t2168-sl2-p2067-r225,To Lv Mall,,10405,Route_104
+49,2,t2169-sl2-p2067-r226,To Lv Mall,,10407,Route_104
+49,2,t2170-sl2-p2067-r222,To Lv Mall,,10401,Route_104
+49,2,t2171-sl2-p2067-r223,To Lv Mall,,10403,Route_104
+49,2,t2172-sl2-p2067-r225,To Lv Mall,,10405,Route_104
+49,2,t2173-sl2-p2067-r226,To Lv Mall,,10407,Route_104
+49,2,t2175-sl2-p2067-r223,To Lv Mall,,10403,Route_104
+49,2,t2177-sl2-p2058-r223,To Emmaus,,10403,Route_104
+49,2,t2179-sl2-p2058-r226,To Emmaus,,10407,Route_104
+49,2,t2181-sl2-p2058-r223,To Emmaus,,10403,Route_104
+49,2,t2183-sl2-p2058-r227,To Emmaus,,10408,Route_104
+49,2,t2185-sl2-p2058-r224,To Emmaus,,10404,Route_104
+49,2,t2187-sl2-p2058-r227,To Emmaus,,10408,Route_104
+49,2,t2188-sl2-p2058-r228,To Emmaus,,10402,Route_104
+49,2,t2190-sl2-p2058-r224,To Emmaus,,10404,Route_104
+49,2,t2191-sl2-p2058-r229,To Emmaus,,10406,Route_104
+49,2,t2193-sl2-p2058-r227,To Emmaus,,10408,Route_104
+49,2,t2194-sl2-p2056-r228,To Atc,,10402,Route_104
+49,2,t2195-sl2-p2058-r224,To Emmaus,,10404,Route_104
+49,2,t2199-sl2-p2058-r226,To Emmaus,,10407,Route_104
+49,2,t2200-sl2-p2058-r222,To Emmaus,,10401,Route_104
+49,2,t2201-sl2-p2058-r223,To Emmaus,,10403,Route_104
+49,2,t2202-sl2-p2058-r225,To Emmaus,,10405,Route_104
+49,2,t2203-sl2-p2058-r226,To Emmaus,,10407,Route_104
+49,2,t2204-sl2-p2058-r222,To Emmaus,,10401,Route_104
+49,2,t2205-sl2-p2058-r223,To Emmaus,,10403,Route_104
+49,2,t2206-sl2-p2056-r225,To Atc,,10405,Route_104
+49,2,t2208-sl2-p2058-r226,To Emmaus,,10407,Route_104
+49,2,t3534-sl2-p2067-r227,To Lv Mall,,10408,Route_104
+49,2,t3539-sl2-p2058-r227,To Emmaus,,10408,Route_104
+49,2,t3541-sl2-p2058-r224,To Emmaus,,10404,Route_104
+49,2,t3543-sl2-p2058-r227,To Emmaus,,10408,Route_104
+49,3,t2146-sl3-p2067-r223,To Lv Mall,,10403,Route_104
+49,3,t2148-sl3-p2067-r222,To Lv Mall,,10401,Route_104
+49,3,t2150-sl3-p2067-r223,To Lv Mall,,10403,Route_104
+49,3,t2152-sl3-p2067-r222,To Lv Mall,,10401,Route_104
+49,3,t2152-sl3-p2067-r228,To Lv Mall,,10402,Route_104
+49,3,t2154-sl3-p2067-r224,To Lv Mall,,10404,Route_104
+49,3,t2157-sl3-p2067-r228,To Lv Mall,,10402,Route_104
+49,3,t2160-sl3-p2067-r224,To Lv Mall,,10404,Route_104
+49,3,t2162-sl3-p2067-r228,To Lv Mall,,10402,Route_104
+49,3,t2163-sl3-p2067-r224,To Lv Mall,,10404,Route_104
+49,3,t2164-sl3-p2067-r228,To Lv Mall,,10402,Route_104
+49,3,t2167-sl3-p2067-r222,To Lv Mall,,10401,Route_104
+49,3,t2169-sl3-p2067-r223,To Lv Mall,,10403,Route_104
+49,3,t2171-sl3-p2067-r222,To Lv Mall,,10401,Route_104
+49,3,t2173-sl3-p2067-r223,To Lv Mall,,10403,Route_104
+49,3,t2175-sl3-p2067-r222,To Lv Mall,,10401,Route_104
+49,3,t2177-sl3-p2058-r222,To Emmaus,,10401,Route_104
+49,3,t2179-sl3-p2058-r223,To Emmaus,,10403,Route_104
+49,3,t2181-sl3-p2058-r222,To Emmaus,,10401,Route_104
+49,3,t2183-sl3-p2058-r223,To Emmaus,,10403,Route_104
+49,3,t2183-sl3-p2058-r224,To Emmaus,,10404,Route_104
+49,3,t2185-sl3-p2058-r228,To Emmaus,,10402,Route_104
+49,3,t2187-sl3-p2058-r224,To Emmaus,,10404,Route_104
+49,3,t2190-sl3-p2058-r228,To Emmaus,,10402,Route_104
+49,3,t2193-sl3-p2058-r224,To Emmaus,,10404,Route_104
+49,3,t2195-sl3-p2058-r228,To Emmaus,,10402,Route_104
+49,3,t2201-sl3-p2058-r222,To Emmaus,,10401,Route_104
+49,3,t2203-sl3-p2058-r223,To Emmaus,,10403,Route_104
+49,3,t2205-sl3-p2058-r222,To Emmaus,,10401,Route_104
+49,3,t2208-sl3-p2058-r223,To Emmaus,,10403,Route_104
+49,3,t3534-sl3-p2067-r224,To Lv Mall,,10404,Route_104
+49,3,t3539-sl3-p2058-r224,To Emmaus,,10404,Route_104
+49,3,t3541-sl3-p2058-r228,To Emmaus,,10402,Route_104
+49,3,t3543-sl3-p2058-r224,To Emmaus,,10404,Route_104
+49,4,t2145-sl4-p2067-r222,To Lv Mall,,10401,Route_104
+49,4,t2147-sl4-p2067-r223,To Lv Mall,,10403,Route_104
+49,4,t2149-sl4-p2067-r222,To Lv Mall,,10401,Route_104
+49,4,t2151-sl4-p2067-r223,To Lv Mall,,10403,Route_104
+49,4,t2153-sl4-p2067-r222,To Lv Mall,,10401,Route_104
+49,4,t2156-sl4-p2067-r223,To Lv Mall,,10403,Route_104
+49,4,t2159-sl4-p2067-r222,To Lv Mall,,10401,Route_104
+49,4,t2174-sl4-p2067-r223,To Lv Mall,,10403,Route_104
+49,4,t2176-sl4-p2058-r223,To Emmaus,,10403,Route_104
+49,4,t2178-sl4-p2058-r222,To Emmaus,,10401,Route_104
+49,4,t2180-sl4-p2058-r223,To Emmaus,,10403,Route_104
+49,4,t2182-sl4-p2058-r222,To Emmaus,,10401,Route_104
+49,4,t2184-sl4-p2058-r223,To Emmaus,,10403,Route_104
+49,4,t2186-sl4-p2058-r222,To Emmaus,,10401,Route_104
+49,4,t2189-sl4-p2058-r223,To Emmaus,,10403,Route_104
+49,4,t2192-sl4-p2058-r222,To Emmaus,,10401,Route_104
+49,4,t2194-sl4-p2056-r286,To Atc,,60201,Route_104
+49,4,t2207-sl4-p2058-r222,To Emmaus,,10401,Route_104
+50,2,t2210-sl2-p2047-r176,To S Easton,,10605,Route_106
+50,2,t2212-sl2-p2047-r172,To S Easton,,10601,Route_106
+50,2,t2214-sl2-p2047-r176,To S Easton,,10605,Route_106
+50,2,t2216-sl2-p2047-r172,To S Easton,,10601,Route_106
+50,2,t2218-sl2-p2047-r176,To S Easton,,10605,Route_106
+50,2,t2218-sl2-p2047-r177,To S Easton,,10606,Route_106
+50,2,t2220-sl2-p2047-r173,To S Easton,,10602,Route_106
+50,2,t2222-sl2-p2047-r177,To S Easton,,10606,Route_106
+50,2,t2224-sl2-p2047-r173,To S Easton,,10602,Route_106
+50,2,t2226-sl2-p2047-r177,To S Easton,,10606,Route_106
+50,2,t2227-sl2-p2047-r173,To S Easton,,10602,Route_106
+50,2,t2228-sl2-p2047-r177,To S Easton,,10606,Route_106
+50,2,t2229-sl2-p2047-r173,To S Easton,,10602,Route_106
+50,2,t2230-sl2-p2047-r177,To S Easton,,10606,Route_106
+50,2,t2231-sl2-p2047-r176,To S Easton,,10605,Route_106
+50,2,t2232-sl2-p2047-r172,To S Easton,,10601,Route_106
+50,2,t2233-sl2-p2047-r176,To S Easton,,10605,Route_106
+50,2,t2234-sl2-p2047-r172,To S Easton,,10601,Route_106
+50,2,t2235-sl2-p2048-r174,To Northmtn Xing,,10603,Route_106
+50,2,t2235-sl2-p2048-r175,To Northmtn Xing,,10604,Route_106
+50,2,t2237-sl2-p2048-r178,To Northmtn Xing,,10607,Route_106
+50,2,t2239-sl2-p2048-r175,To Northmtn Xing,,10604,Route_106
+50,2,t2241-sl2-p2048-r178,To Northmtn Xing,,10607,Route_106
+50,2,t2241-sl2-p2048-r189,To Northmtn Xing,,10608,Route_106
+50,2,t2243-sl2-p2048-r175,To Northmtn Xing,,10604,Route_106
+50,2,t2245-sl2-p2048-r189,To Northmtn Xing,,10608,Route_106
+50,2,t2247-sl2-p2048-r175,To Northmtn Xing,,10604,Route_106
+50,2,t2249-sl2-p2048-r189,To Northmtn Xing,,10608,Route_106
+50,2,t2250-sl2-p2048-r175,To Northmtn Xing,,10604,Route_106
+50,2,t2251-sl2-p2048-r177,To Northmtn Xing,,10606,Route_106
+50,2,t2252-sl2-p2048-r173,To Northmtn Xing,,10602,Route_106
+50,2,t2253-sl2-p2048-r177,To Northmtn Xing,,10606,Route_106
+50,2,t2254-sl2-p2043-r173,To Easton Hosp,,10602,Route_106
+50,2,t2255-sl2-p2043-r177,To Easton Hosp,,10606,Route_106
+50,2,t2256-sl2-p2048-r174,To Northmtn Xing,,10603,Route_106
+50,2,t2257-sl2-p2048-r178,To Northmtn Xing,,10607,Route_106
+50,2,t2258-sl2-p2048-r174,To Northmtn Xing,,10603,Route_106
+50,2,t2259-sl2-p2048-r178,To Northmtn Xing,,10607,Route_106
+50,3,t2210-sl3-p2047-r176,To S Easton,,10605,Route_106
+50,3,t2212-sl3-p2047-r172,To S Easton,,10601,Route_106
+50,3,t2214-sl3-p2047-r176,To S Easton,,10605,Route_106
+50,3,t2216-sl3-p2047-r172,To S Easton,,10601,Route_106
+50,3,t2218-sl3-p2047-r176,To S Easton,,10605,Route_106
+50,3,t2218-sl3-p2047-r177,To S Easton,,10606,Route_106
+50,3,t2220-sl3-p2047-r173,To S Easton,,10602,Route_106
+50,3,t2222-sl3-p2047-r177,To S Easton,,10606,Route_106
+50,3,t2224-sl3-p2047-r173,To S Easton,,10602,Route_106
+50,3,t2226-sl3-p2047-r177,To S Easton,,10606,Route_106
+50,3,t2227-sl3-p2047-r173,To S Easton,,10602,Route_106
+50,3,t2228-sl3-p2047-r177,To S Easton,,10606,Route_106
+50,3,t2229-sl3-p2047-r173,To S Easton,,10602,Route_106
+50,3,t2230-sl3-p2047-r177,To S Easton,,10606,Route_106
+50,3,t2231-sl3-p2047-r176,To S Easton,,10605,Route_106
+50,3,t2232-sl3-p2047-r172,To S Easton,,10601,Route_106
+50,3,t2233-sl3-p2047-r176,To S Easton,,10605,Route_106
+50,3,t2234-sl3-p2047-r172,To S Easton,,10601,Route_106
+50,3,t2235-sl3-p2048-r174,To Northmtn Xing,,10603,Route_106
+50,3,t2235-sl3-p2048-r175,To Northmtn Xing,,10604,Route_106
+50,3,t2237-sl3-p2048-r178,To Northmtn Xing,,10607,Route_106
+50,3,t2239-sl3-p2048-r175,To Northmtn Xing,,10604,Route_106
+50,3,t2241-sl3-p2048-r178,To Northmtn Xing,,10607,Route_106
+50,3,t2241-sl3-p2048-r189,To Northmtn Xing,,10608,Route_106
+50,3,t2243-sl3-p2048-r175,To Northmtn Xing,,10604,Route_106
+50,3,t2245-sl3-p2048-r189,To Northmtn Xing,,10608,Route_106
+50,3,t2247-sl3-p2048-r175,To Northmtn Xing,,10604,Route_106
+50,3,t2249-sl3-p2048-r189,To Northmtn Xing,,10608,Route_106
+50,3,t2250-sl3-p2048-r175,To Northmtn Xing,,10604,Route_106
+50,3,t2251-sl3-p2048-r177,To Northmtn Xing,,10606,Route_106
+50,3,t2252-sl3-p2048-r173,To Northmtn Xing,,10602,Route_106
+50,3,t2253-sl3-p2048-r177,To Northmtn Xing,,10606,Route_106
+50,3,t2254-sl3-p2043-r173,To Easton Hosp,,10602,Route_106
+50,3,t2255-sl3-p2043-r177,To Easton Hosp,,10606,Route_106
+50,3,t2256-sl3-p2048-r174,To Northmtn Xing,,10603,Route_106
+50,3,t2257-sl3-p2048-r178,To Northmtn Xing,,10607,Route_106
+50,3,t2258-sl3-p2048-r174,To Northmtn Xing,,10603,Route_106
+50,3,t2259-sl3-p2048-r178,To Northmtn Xing,,10607,Route_106
+50,4,t2209-sl4-p2108-r174,To S Easton,,10603,Route_106
+50,4,t2211-sl4-p2108-r172,To S Easton,,10601,Route_106
+50,4,t2213-sl4-p2108-r174,To S Easton,,10603,Route_106
+50,4,t2215-sl4-p2108-r172,To S Easton,,10601,Route_106
+50,4,t2217-sl4-p2108-r174,To S Easton,,10603,Route_106
+50,4,t2219-sl4-p2108-r172,To S Easton,,10601,Route_106
+50,4,t2221-sl4-p2108-r174,To S Easton,,10603,Route_106
+50,4,t2223-sl4-p3629-r172,To S Easton,,10601,Route_106
+50,4,t2225-sl4-p3629-r174,To S Easton,,10603,Route_106
+50,4,t2236-sl4-p2190-r174,To Northmtn Xing,,10603,Route_106
+50,4,t2238-sl4-p2190-r172,To Northmtn Xing,,10601,Route_106
+50,4,t2240-sl4-p2190-r174,To Northmtn Xing,,10603,Route_106
+50,4,t2242-sl4-p2190-r172,To Northmtn Xing,,10601,Route_106
+50,4,t2244-sl4-p2190-r174,To Northmtn Xing,,10603,Route_106
+50,4,t2246-sl4-p2190-r172,To Northmtn Xing,,10601,Route_106
+50,4,t2248-sl4-p2190-r174,To Northmtn Xing,,10603,Route_106
+50,4,t2260-sl4-p2190-r172,To Northmtn Xing,,10601,Route_106
+50,4,t4059-sl4-p2040-r172,,,10601,
+50,4,t4060-sl4-p2040-r174,,,10603,
+51,2,t2261-sl2-p2046-r178,To S Easton,,10607,Route_216
+51,2,t2262-sl2-p2046-r175,To S Easton,,10604,Route_216
+51,2,t2263-sl2-p2046-r178,To S Easton,,10607,Route_216
+51,2,t2264-sl2-p2046-r175,To S Easton,,10604,Route_216
+51,2,t2265-sl2-p2046-r189,To S Easton,,10608,Route_216
+51,2,t2266-sl2-p2046-r175,To S Easton,,10604,Route_216
+51,2,t2267-sl2-p2046-r189,To S Easton,,10608,Route_216
+51,2,t2268-sl2-p2046-r175,To S Easton,,10604,Route_216
+51,2,t2269-sl2-p2041-r174,To S Easton,,10603,Route_216
+51,2,t2270-sl2-p2046-r178,To S Easton,,10607,Route_216
+51,2,t2271-sl2-p2046-r174,To S Easton,,10603,Route_216
+51,2,t2272-sl2-p2046-r178,To S Easton,,10607,Route_216
+51,2,t2273-sl2-p2046-r174,To S Easton,,10603,Route_216
+51,2,t2274-sl2-p2042-r176,To Nhmptn Xing,,10605,Route_216
+51,2,t2275-sl2-p2042-r172,To Nhmptn Xing,,10601,Route_216
+51,2,t2276-sl2-p2042-r176,To Nhmptn Xing,,10605,Route_216
+51,2,t2277-sl2-p2042-r172,To Nhmptn Xing,,10601,Route_216
+51,2,t2277-sl2-p2042-r173,To Nhmptn Xing,,10602,Route_216
+51,2,t2278-sl2-p2042-r177,To Nhmptn Xing,,10606,Route_216
+51,2,t2279-sl2-p2042-r173,To Nhmptn Xing,,10602,Route_216
+51,2,t2280-sl2-p2042-r177,To Nhmptn Xing,,10606,Route_216
+51,2,t2281-sl2-p2042-r173,To Nhmptn Xing,,10602,Route_216
+51,2,t2282-sl2-p2042-r172,To Nhmptn Xing,,10601,Route_216
+51,2,t2283-sl2-p2042-r176,To Nhmptn Xing,,10605,Route_216
+51,2,t2284-sl2-p2042-r172,To Nhmptn Xing,,10601,Route_216
+51,2,t2285-sl2-p2042-r176,To Nhmptn Xing,,10605,Route_216
+51,2,t2286-sl2-p2042-r172,To Nhmptn Xing,,10601,Route_216
+51,3,t2261-sl3-p2046-r178,To S Easton,,10607,Route_216
+51,3,t2262-sl3-p2046-r175,To S Easton,,10604,Route_216
+51,3,t2263-sl3-p2046-r178,To S Easton,,10607,Route_216
+51,3,t2264-sl3-p2046-r175,To S Easton,,10604,Route_216
+51,3,t2265-sl3-p2046-r189,To S Easton,,10608,Route_216
+51,3,t2266-sl3-p2046-r175,To S Easton,,10604,Route_216
+51,3,t2267-sl3-p2046-r189,To S Easton,,10608,Route_216
+51,3,t2268-sl3-p2046-r175,To S Easton,,10604,Route_216
+51,3,t2269-sl3-p2041-r174,To S Easton,,10603,Route_216
+51,3,t2270-sl3-p2046-r178,To S Easton,,10607,Route_216
+51,3,t2271-sl3-p2046-r174,To S Easton,,10603,Route_216
+51,3,t2272-sl3-p2046-r178,To S Easton,,10607,Route_216
+51,3,t2273-sl3-p2046-r174,To S Easton,,10603,Route_216
+51,3,t2274-sl3-p2042-r176,To Nhmptn Xing,,10605,Route_216
+51,3,t2275-sl3-p2042-r172,To Nhmptn Xing,,10601,Route_216
+51,3,t2276-sl3-p2042-r176,To Nhmptn Xing,,10605,Route_216
+51,3,t2277-sl3-p2042-r172,To Nhmptn Xing,,10601,Route_216
+51,3,t2277-sl3-p2042-r173,To Nhmptn Xing,,10602,Route_216
+51,3,t2278-sl3-p2042-r177,To Nhmptn Xing,,10606,Route_216
+51,3,t2279-sl3-p2042-r173,To Nhmptn Xing,,10602,Route_216
+51,3,t2280-sl3-p2042-r177,To Nhmptn Xing,,10606,Route_216
+51,3,t2281-sl3-p2042-r173,To Nhmptn Xing,,10602,Route_216
+51,3,t2282-sl3-p2042-r172,To Nhmptn Xing,,10601,Route_216
+51,3,t2283-sl3-p2042-r176,To Nhmptn Xing,,10605,Route_216
+51,3,t2284-sl3-p2042-r172,To Nhmptn Xing,,10601,Route_216
+51,3,t2285-sl3-p2042-r176,To Nhmptn Xing,,10605,Route_216
+51,3,t2286-sl3-p2042-r172,To Nhmptn Xing,,10601,Route_216
+52,2,t2287-sl2-p2038-r195,To Beth Square,,10803,Route_108
+52,2,t2289-sl2-p2038-r238,To Beth Square,,10801,Route_108
+52,2,t2290-sl2-p2038-r194,To Beth Square,,10806,Route_108
+52,2,t2291-sl2-p2038-r196,To Beth Square,,10804,Route_108
+52,2,t2293-sl2-p2038-r293,To Beth Square,,10802,Route_108
+52,2,t2294-sl2-p2038-r194,To Beth Square,,10806,Route_108
+52,2,t2295-sl2-p2038-r196,To Beth Square,,10804,Route_108
+52,2,t2296-sl2-p2038-r293,To Beth Square,,10802,Route_108
+52,2,t2297-sl2-p2038-r293,To Beth Square,,10802,Route_108
+52,2,t2298-sl2-p2038-r238,To Beth Square,,10801,Route_108
+52,2,t2299-sl2-p2038-r193,To Beth Square,,10805,Route_108
+52,2,t2300-sl2-p2038-r195,To Beth Square,,10803,Route_108
+52,2,t2301-sl2-p2038-r238,To Beth Square,,10801,Route_108
+52,2,t2302-sl2-p2038-r193,To Beth Square,,10805,Route_108
+52,2,t2304-sl2-p2026-r194,To Fountn Hill,,10806,Route_108
+52,2,t2305-sl2-p2026-r195,To Fountn Hill,,10803,Route_108
+52,2,t2307-sl2-p2026-r238,To Fountn Hill,,10801,Route_108
+52,2,t2309-sl2-p2026-r194,To Fountn Hill,,10806,Route_108
+52,2,t2310-sl2-p2026-r196,To Fountn Hill,,10804,Route_108
+52,2,t2312-sl2-p2026-r293,To Fountn Hill,,10802,Route_108
+52,2,t2314-sl2-p2026-r194,To Fountn Hill,,10806,Route_108
+52,2,t2315-sl2-p2026-r196,To Fountn Hill,,10804,Route_108
+52,2,t2316-sl2-p2026-r293,To Fountn Hill,,10802,Route_108
+52,2,t2317-sl2-p2026-r293,To Fountn Hill,,10802,Route_108
+52,2,t2318-sl2-p2026-r195,To Fountn Hill,,10803,Route_108
+52,2,t2319-sl2-p2026-r238,To Fountn Hill,,10801,Route_108
+52,2,t2320-sl2-p2026-r193,To Fountn Hill,,10805,Route_108
+52,2,t2321-sl2-p2026-r195,To Fountn Hill,,10803,Route_108
+52,2,t2322-sl2-p2026-r238,To Fountn Hill,,10801,Route_108
+52,3,t2287-sl3-p2038-r195,To Beth Square,,10803,Route_108
+52,3,t2289-sl3-p2038-r238,To Beth Square,,10801,Route_108
+52,3,t2290-sl3-p2038-r194,To Beth Square,,10806,Route_108
+52,3,t2291-sl3-p2038-r196,To Beth Square,,10804,Route_108
+52,3,t2293-sl3-p2038-r293,To Beth Square,,10802,Route_108
+52,3,t2294-sl3-p2038-r194,To Beth Square,,10806,Route_108
+52,3,t2295-sl3-p2038-r196,To Beth Square,,10804,Route_108
+52,3,t2296-sl3-p2038-r293,To Beth Square,,10802,Route_108
+52,3,t2297-sl3-p2038-r293,To Beth Square,,10802,Route_108
+52,3,t2298-sl3-p2038-r238,To Beth Square,,10801,Route_108
+52,3,t2299-sl3-p2038-r193,To Beth Square,,10805,Route_108
+52,3,t2300-sl3-p2038-r195,To Beth Square,,10803,Route_108
+52,3,t2301-sl3-p2038-r238,To Beth Square,,10801,Route_108
+52,3,t2302-sl3-p2038-r193,To Beth Square,,10805,Route_108
+52,3,t2304-sl3-p2026-r194,To Fountn Hill,,10806,Route_108
+52,3,t2305-sl3-p2026-r195,To Fountn Hill,,10803,Route_108
+52,3,t2307-sl3-p2026-r238,To Fountn Hill,,10801,Route_108
+52,3,t2309-sl3-p2026-r194,To Fountn Hill,,10806,Route_108
+52,3,t2310-sl3-p2026-r196,To Fountn Hill,,10804,Route_108
+52,3,t2312-sl3-p2026-r293,To Fountn Hill,,10802,Route_108
+52,3,t2314-sl3-p2026-r194,To Fountn Hill,,10806,Route_108
+52,3,t2315-sl3-p2026-r196,To Fountn Hill,,10804,Route_108
+52,3,t2316-sl3-p2026-r293,To Fountn Hill,,10802,Route_108
+52,3,t2317-sl3-p2026-r293,To Fountn Hill,,10802,Route_108
+52,3,t2318-sl3-p2026-r195,To Fountn Hill,,10803,Route_108
+52,3,t2319-sl3-p2026-r238,To Fountn Hill,,10801,Route_108
+52,3,t2320-sl3-p2026-r193,To Fountn Hill,,10805,Route_108
+52,3,t2321-sl3-p2026-r195,To Fountn Hill,,10803,Route_108
+52,3,t2322-sl3-p2026-r238,To Fountn Hill,,10801,Route_108
+52,4,t1787-sl4-p2024-r238,To Beth Square,,10801,Route_108
+52,4,t2288-sl4-p2038-r238,To Beth Square,,10801,Route_108
+52,4,t2290-sl4-p2038-r238,To Beth Square,,10801,Route_108
+52,4,t2292-sl4-p2038-r238,To Beth Square,,10801,Route_108
+52,4,t2294-sl4-p2038-r238,To Beth Square,,10801,Route_108
+52,4,t2303-sl4-p2026-r238,To Fountn Hill,,10801,Route_108
+52,4,t2306-sl4-p2026-r238,To Fountn Hill,,10801,Route_108
+52,4,t2308-sl4-p2026-r238,To Fountn Hill,,10801,Route_108
+52,4,t2311-sl4-p2026-r238,To Fountn Hill,,10801,Route_108
+52,4,t2313-sl4-p2026-r238,To Fountn Hill,,10801,Route_108
+53,2,t2323-sl2-p2036-r238,To 33 P&r,,10801,Route_212
+53,2,t2324-sl2-p2036-r194,To 33 P&r,,10806,Route_212
+53,2,t2325-sl2-p2036-r195,To 33 P&r,,10803,Route_212
+53,2,t2326-sl2-p2036-r293,To 33 P&r,,10802,Route_212
+53,2,t2327-sl2-p2036-r194,To 33 P&r,,10806,Route_212
+53,2,t2328-sl2-p2036-r196,To 33 P&r,,10804,Route_212
+53,2,t2329-sl2-p2036-r293,To 33 P&r,,10802,Route_212
+53,2,t2330-sl2-p2033-r194,To Guetter&brd,,10806,Route_212
+53,2,t2331-sl2-p2034-r194,To 33 P&r,,10806,Route_212
+53,2,t2332-sl2-p2036-r195,To 33 P&r,,10803,Route_212
+53,2,t2333-sl2-p2036-r238,To 33 P&r,,10801,Route_212
+53,2,t2334-sl2-p2036-r193,To 33 P&r,,10805,Route_212
+53,2,t2335-sl2-p2036-r195,To 33 P&r,,10803,Route_212
+53,2,t2336-sl2-p2035-r195,To Fountn Hill,,10803,Route_212
+53,2,t2337-sl2-p2035-r238,To Fountn Hill,,10801,Route_212
+53,2,t2338-sl2-p2035-r194,To Fountn Hill,,10806,Route_212
+53,2,t2339-sl2-p2035-r196,To Fountn Hill,,10804,Route_212
+53,2,t2340-sl2-p2035-r293,To Fountn Hill,,10802,Route_212
+53,2,t2341-sl2-p2035-r194,To Fountn Hill,,10806,Route_212
+53,2,t2342-sl2-p2035-r196,To Fountn Hill,,10804,Route_212
+53,2,t2343-sl2-p2035-r293,To Fountn Hill,,10802,Route_212
+53,2,t2344-sl2-p2035-r193,To Fountn Hill,,10805,Route_212
+53,2,t2345-sl2-p2035-r195,To Fountn Hill,,10803,Route_212
+53,2,t2346-sl2-p2035-r238,To Fountn Hill,,10801,Route_212
+53,2,t2347-sl2-p2035-r193,To Fountn Hill,,10805,Route_212
+53,3,t2323-sl3-p2036-r238,To 33 P&r,,10801,Route_212
+53,3,t2324-sl3-p2036-r194,To 33 P&r,,10806,Route_212
+53,3,t2325-sl3-p2036-r195,To 33 P&r,,10803,Route_212
+53,3,t2326-sl3-p2036-r293,To 33 P&r,,10802,Route_212
+53,3,t2327-sl3-p2036-r194,To 33 P&r,,10806,Route_212
+53,3,t2328-sl3-p2036-r196,To 33 P&r,,10804,Route_212
+53,3,t2329-sl3-p2036-r293,To 33 P&r,,10802,Route_212
+53,3,t2330-sl3-p2033-r194,To Guetter&brd,,10806,Route_212
+53,3,t2331-sl3-p2034-r194,To 33 P&r,,10806,Route_212
+53,3,t2332-sl3-p2036-r195,To 33 P&r,,10803,Route_212
+53,3,t2333-sl3-p2036-r238,To 33 P&r,,10801,Route_212
+53,3,t2334-sl3-p2036-r193,To 33 P&r,,10805,Route_212
+53,3,t2335-sl3-p2036-r195,To 33 P&r,,10803,Route_212
+53,3,t2336-sl3-p2035-r195,To Fountn Hill,,10803,Route_212
+53,3,t2337-sl3-p2035-r238,To Fountn Hill,,10801,Route_212
+53,3,t2338-sl3-p2035-r194,To Fountn Hill,,10806,Route_212
+53,3,t2339-sl3-p2035-r196,To Fountn Hill,,10804,Route_212
+53,3,t2340-sl3-p2035-r293,To Fountn Hill,,10802,Route_212
+53,3,t2341-sl3-p2035-r194,To Fountn Hill,,10806,Route_212
+53,3,t2342-sl3-p2035-r196,To Fountn Hill,,10804,Route_212
+53,3,t2343-sl3-p2035-r293,To Fountn Hill,,10802,Route_212
+53,3,t2344-sl3-p2035-r193,To Fountn Hill,,10805,Route_212
+53,3,t2345-sl3-p2035-r195,To Fountn Hill,,10803,Route_212
+53,3,t2346-sl3-p2035-r238,To Fountn Hill,,10801,Route_212
+53,3,t2347-sl3-p2035-r193,To Fountn Hill,,10805,Route_212
+54,2,t2365-sl2-p2014-r231,To Lv Mall,,10502,Route_105
+54,2,t2366-sl2-p2012-r233,To Westgate Mall,,10504,Route_105
+54,2,t2367-sl2-p2011-r233,To Brd&guetter,,10504,Route_105
+54,2,t2386-sl2-p3147-r230,To Comm Cntr,,10501,Route_105
+54,2,t3763-sl2-p3535-r233,To Lv Mall,,10504,Route_105
+54,2,t3764-sl2-p3535-r230,To Lv Mall,,10501,Route_105
+54,2,t3920-sl2-p3146-r231,To Comm Cntr,,10502,Route_105
+54,2,t4443-sl2-p3535-r231,To Lv Mall,,10502,Route_105
+54,2,t4444-sl2-p3535-r233,To Lv Mall,,10504,Route_105
+54,2,t4445-sl2-p3535-r231,To Lv Mall,,10502,Route_105
+54,2,t4446-sl2-p3535-r232,To Lv Mall,,10503,Route_105
+54,2,t4493-sl2-p4047-r230,To Lv Mall,,10501,Route_105
+54,2,t4494-sl2-p4047-r232,To Lv Mall,,10503,Route_105
+54,2,t4495-sl2-p4047-r230,To Lv Mall,,10501,Route_105
+54,2,t4496-sl2-p4047-r232,To Lv Mall,,10503,Route_105
+54,2,t4497-sl2-p4047-r231,To Lv Mall,,10502,Route_105
+54,2,t4502-sl2-p2014-r233,To Lv Mall,,10504,Route_105
+54,2,t4503-sl2-p4145-r230,,,10501,
+54,2,t4507-sl2-p3535-r230,To Lv Mall,,10501,Route_105
+54,2,t4509-sl2-p4047-r232,To Lv Mall,,10503,Route_105
+54,2,t4510-sl2-p4146-r232,,,10503,
+54,2,t4511-sl2-p4146-r230,,,10501,
+54,2,t4512-sl2-p4146-r232,,,10503,
+54,2,t4513-sl2-p4146-r231,,,10502,
+54,2,t4514-sl2-p4146-r233,,,10504,
+54,2,t4515-sl2-p3146-r231,To Comm Cntr,,10502,Route_105
+54,2,t4516-sl2-p3146-r233,To Comm Cntr,,10504,Route_105
+54,2,t4517-sl2-p2017-r233,To Lvip7,,10504,Route_105
+54,2,t4518-sl2-p4136-r231,,,10502,
+54,2,t4519-sl2-p4136-r233,,,10504,
+54,2,t4520-sl2-p4136-r231,,,10502,
+54,2,t4521-sl2-p2018-r233,To Lvip 7,,10504,Route_105
+54,2,t4522-sl2-p3147-r232,To Comm Cntr,,10503,Route_105
+54,2,t4524-sl2-p3146-r230,To Comm Cntr,,10501,Route_105
+54,2,t4525-sl2-p3146-r232,To Comm Cntr,,10503,Route_105
+54,2,t4526-sl2-p4146-r230,,,10501,
+54,3,t2364-sl3-p2014-r231,To Lv Mall,,10502,Route_105
+54,3,t2365-sl3-p2014-r233,To Lv Mall,,10504,Route_105
+54,3,t2366-sl3-p2207-r231,,,10502,
+54,3,t3692-sl3-p4137-r231,,,10502,
+54,3,t3693-sl3-p4137-r233,,,10504,
+54,3,t3694-sl3-p4137-r231,,,10502,
+54,3,t3696-sl3-p4136-r233,,,10504,
+54,3,t3920-sl3-p4146-r233,,,10504,
+54,3,t4493-sl3-p4047-r232,To Lv Mall,,10503,Route_105
+54,3,t4494-sl3-p4047-r230,To Lv Mall,,10501,Route_105
+54,3,t4495-sl3-p4047-r232,To Lv Mall,,10503,Route_105
+54,3,t4496-sl3-p4047-r231,To Lv Mall,,10502,Route_105
+54,3,t4497-sl3-p4047-r233,To Lv Mall,,10504,Route_105
+54,3,t4498-sl3-p4047-r231,To Lv Mall,,10502,Route_105
+54,3,t4499-sl3-p4047-r233,To Lv Mall,,10504,Route_105
+54,3,t4500-sl3-p4047-r231,To Lv Mall,,10502,Route_105
+54,3,t4501-sl3-p4047-r233,To Lv Mall,,10504,Route_105
+54,3,t4504-sl3-p4145-r230,,,10501,
+54,3,t4505-sl3-p4047-r232,To Lv Mall,,10503,Route_105
+54,3,t4506-sl3-p4047-r230,To Lv Mall,,10501,Route_105
+54,3,t4508-sl3-p4047-r232,To Lv Mall,,10503,Route_105
+54,3,t4509-sl3-p4047-r230,To Lv Mall,,10501,Route_105
+54,3,t4510-sl3-p4146-r230,,,10501,
+54,3,t4511-sl3-p4146-r232,,,10503,
+54,3,t4512-sl3-p4146-r230,,,10501,
+54,3,t4513-sl3-p4146-r233,,,10504,
+54,3,t4514-sl3-p4146-r231,,,10502,
+54,3,t4515-sl3-p4146-r233,,,10504,
+54,3,t4516-sl3-p4146-r231,,,10502,
+54,3,t4523-sl3-p4148-r230,,,10501,
+54,3,t4524-sl3-p4146-r232,,,10503,
+54,3,t4525-sl3-p4146-r230,,,10501,
+54,3,t4526-sl3-p4146-r232,,,10503,
+54,4,t2348-sl4-p2013-r232,To Leh Vall Mall,,10503,Route_105
+54,4,t2350-sl4-p2013-r230,To Leh Vall Mall,,10501,Route_105
+54,4,t2352-sl4-p2013-r232,To Leh Vall Mall,,10503,Route_105
+54,4,t2354-sl4-p2013-r230,To Leh Vall Mall,,10501,Route_105
+54,4,t2356-sl4-p2013-r232,To Leh Vall Mall,,10503,Route_105
+54,4,t2358-sl4-p2013-r230,To Leh Vall Mall,,10501,Route_105
+54,4,t2360-sl4-p2013-r232,To Leh Vall Mall,,10503,Route_105
+54,4,t2372-sl4-p2013-r230,To Leh Vall Mall,,10501,Route_105
+54,4,t2374-sl4-p2021-r230,To Creekside,,10501,Route_105
+54,4,t2375-sl4-p2021-r232,To Creekside,,10503,Route_105
+54,4,t2376-sl4-p2021-r230,To Creekside,,10501,Route_105
+54,4,t2377-sl4-p2021-r232,To Creekside,,10503,Route_105
+54,4,t2378-sl4-p2021-r230,To Creekside,,10501,Route_105
+54,4,t2379-sl4-p2021-r232,To Creekside,,10503,Route_105
+54,4,t2380-sl4-p2021-r230,To Creekside,,10501,Route_105
+54,4,t2381-sl4-p2021-r232,To Creekside,,10503,Route_105
+55,2,t2391-sl2-p2004-r180,To Roseto,,21701,Route_217
+55,2,t2392-sl2-p2004-r184,To Roseto,,21706,Route_217
+55,2,t2394-sl2-p1989-r190,To Roseto,,21704,Route_217
+55,2,t2394-sl2-p2003-r191,To Roseto,,21702,Route_217
+55,2,t2395-sl2-p2003-r192,To Roseto,,21708,Route_217
+55,2,t2396-sl2-p2001-r184,To Palmer Park,,21706,Route_217
+55,2,t2397-sl2-p2000-r180,To Lvip Iv,,21701,Route_217
+55,2,t2398-sl2-p1990-r180,To Roseto,,21701,Route_217
+55,2,t2399-sl2-p2000-r181,To Lvip Iv,,21703,Route_217
+55,2,t2400-sl2-p2001-r183,To Palmer Park,,21705,Route_217
+55,2,t2401-sl2-p1992-r184,To Brd&guetter,,21706,Route_217
+55,2,t2402-sl2-p1992-r180,To Brd&guetter,,21701,Route_217
+55,2,t2402-sl2-p1992-r191,To Brd&guetter,,21702,Route_217
+55,2,t2403-sl2-p1992-r184,To Brd&guetter,,21706,Route_217
+55,2,t2404-sl2-p2218-r192,To Brd & Guetter,,21708,Route_217
+55,2,t2405-sl2-p1992-r190,To Brd&guetter,,21704,Route_217
+55,2,t2406-sl2-p1984-r191,To Palmer Park,,21702,Route_217
+55,2,t2407-sl2-p1984-r192,To Palmer Park,,21708,Route_217
+55,2,t2408-sl2-p1988-r181,To Brd&guetter,,21703,Route_217
+55,2,t2410-sl2-p1988-r183,To Brd&guetter,,21705,Route_217
+55,2,t2412-sl2-p1992-r180,To Brd&guetter,,21701,Route_217
+55,2,t4061-sl2-p2005-r184,To Roseto,,21706,Route_217
+55,3,t2391-sl3-p2004-r180,To Roseto,,21701,Route_217
+55,3,t2392-sl3-p2004-r181,To Roseto,,21703,Route_217
+55,3,t2394-sl3-p2004-r191,To Roseto,,21702,Route_217
+55,3,t2396-sl3-p2001-r181,To Palmer Park,,21703,Route_217
+55,3,t2398-sl3-p2004-r180,To Roseto,,21701,Route_217
+55,3,t2400-sl3-p2004-r181,To Roseto,,21703,Route_217
+55,3,t2401-sl3-p1992-r181,To Brd&guetter,,21703,Route_217
+55,3,t2402-sl3-p1992-r180,To Brd&guetter,,21701,Route_217
+55,3,t2402-sl3-p1992-r191,To Brd&guetter,,21702,Route_217
+55,3,t2403-sl3-p1992-r181,To Brd&guetter,,21703,Route_217
+55,3,t2406-sl3-p1984-r191,To Palmer Park,,21702,Route_217
+55,3,t2411-sl3-p1982-r181,To Brd&guetter,,21703,Route_217
+55,3,t2412-sl3-p1992-r180,To Brd&guetter,,21701,Route_217
+56,2,t1878-sl2-p2023-r240,To Atc,,20902,Route_209
+56,2,t1880-sl2-p2022-r240,To Crest Plaza,,20902,Route_209
+56,2,t2413-sl2-p2023-r239,To Atc,,20901,Route_209
+56,2,t2414-sl2-p2023-r240,To Atc,,20902,Route_209
+56,2,t2415-sl2-p2023-r240,To Atc,,20902,Route_209
+56,2,t2416-sl2-p2023-r240,To Atc,,20902,Route_209
+56,2,t2417-sl2-p2023-r240,To Atc,,20902,Route_209
+56,2,t2418-sl2-p2023-r240,To Atc,,20902,Route_209
+56,2,t2419-sl2-p2023-r240,To Atc,,20902,Route_209
+56,2,t2420-sl2-p2023-r240,To Atc,,20902,Route_209
+56,2,t2421-sl2-p2023-r239,To Atc,,20901,Route_209
+56,2,t2423-sl2-p2023-r239,To Atc,,20901,Route_209
+56,2,t2424-sl2-p2023-r239,To Atc,,20901,Route_209
+56,2,t2425-sl2-p2023-r239,To Atc,,20901,Route_209
+56,2,t2426-sl2-p2022-r240,To Crest Plaza,,20902,Route_209
+56,2,t2427-sl2-p2022-r240,To Crest Plaza,,20902,Route_209
+56,2,t2428-sl2-p2022-r240,To Crest Plaza,,20902,Route_209
+56,2,t2429-sl2-p2022-r240,To Crest Plaza,,20902,Route_209
+56,2,t2430-sl2-p2022-r240,To Crest Plaza,,20902,Route_209
+56,2,t2431-sl2-p2022-r240,To Crest Plaza,,20902,Route_209
+56,2,t2432-sl2-p2022-r240,To Crest Plaza,,20902,Route_209
+56,2,t2433-sl2-p2022-r239,To Crest Plaza,,20901,Route_209
+56,2,t2434-sl2-p2022-r239,To Crest Plaza,,20901,Route_209
+56,2,t2435-sl2-p2022-r239,To Crest Plaza,,20901,Route_209
+56,2,t2436-sl2-p2022-r239,To Crest Plaza,,20901,Route_209
+56,3,t1878-sl3-p2023-r240,To Atc,,20902,Route_209
+56,3,t1880-sl3-p2022-r240,To Crest Plaza,,20902,Route_209
+56,3,t2413-sl3-p2023-r239,To Atc,,20901,Route_209
+56,3,t2414-sl3-p2023-r240,To Atc,,20902,Route_209
+56,3,t2415-sl3-p2023-r240,To Atc,,20902,Route_209
+56,3,t2416-sl3-p2023-r240,To Atc,,20902,Route_209
+56,3,t2417-sl3-p2023-r240,To Atc,,20902,Route_209
+56,3,t2418-sl3-p2023-r240,To Atc,,20902,Route_209
+56,3,t2419-sl3-p2023-r240,To Atc,,20902,Route_209
+56,3,t2420-sl3-p2023-r240,To Atc,,20902,Route_209
+56,3,t2422-sl3-p2206-r239,To Atc,,20901,Route_209
+56,3,t2423-sl3-p2023-r239,To Atc,,20901,Route_209
+56,3,t2424-sl3-p2023-r239,To Atc,,20901,Route_209
+56,3,t2425-sl3-p2023-r239,To Atc,,20901,Route_209
+56,3,t2426-sl3-p2022-r240,To Crest Plaza,,20902,Route_209
+56,3,t2427-sl3-p2022-r240,To Crest Plaza,,20902,Route_209
+56,3,t2428-sl3-p2022-r240,To Crest Plaza,,20902,Route_209
+56,3,t2429-sl3-p2022-r240,To Crest Plaza,,20902,Route_209
+56,3,t2430-sl3-p2022-r240,To Crest Plaza,,20902,Route_209
+56,3,t2431-sl3-p2022-r240,To Crest Plaza,,20902,Route_209
+56,3,t2432-sl3-p2022-r240,To Crest Plaza,,20902,Route_209
+56,3,t2433-sl3-p2022-r239,To Crest Plaza,,20901,Route_209
+56,3,t2434-sl3-p2022-r239,To Crest Plaza,,20901,Route_209
+56,3,t2435-sl3-p2022-r239,To Crest Plaza,,20901,Route_209
+56,3,t2436-sl3-p2022-r239,To Crest Plaza,,20901,Route_209
+57,2,t2441-sl2-p4150-r250,,,21102,
+57,2,t3765-sl2-p1994-r249,To Lv Hospital,,21101,Route_211
+57,2,t3767-sl2-p1994-r329,To Lv Hospital,,21103,Route_211
+57,2,t3769-sl2-p1994-r249,To Lv Hospital,,21101,Route_211
+57,2,t3771-sl2-p3776-r329,To Atc,,21103,Route_211
+57,2,t3773-sl2-p1994-r250,To Lv Hospital,,21102,Route_211
+57,2,t3775-sl2-p1994-r330,To Lv Hospital,,21104,Route_211
+57,2,t3777-sl2-p1994-r250,To Lv Hospital,,21102,Route_211
+57,2,t3779-sl2-p1994-r330,To Lv Hospital,,21104,Route_211
+57,2,t3781-sl2-p3776-r250,To Atc,,21102,Route_211
+57,2,t3783-sl2-p1994-r249,To Lv Hospital,,21101,Route_211
+57,2,t3785-sl2-p1994-r329,To Lv Hospital,,21103,Route_211
+57,2,t3787-sl2-p1994-r249,To Lv Hospital,,21101,Route_211
+57,2,t3789-sl2-p1994-r329,To Lv Hospital,,21103,Route_211
+57,2,t4250-sl2-p1993-r329,To Leh Vall Mall,,21103,Route_211
+57,2,t4251-sl2-p1993-r249,To Leh Vall Mall,,21101,Route_211
+57,2,t4252-sl2-p1993-r329,To Leh Vall Mall,,21103,Route_211
+57,2,t4253-sl2-p4149-r249,,,21101,
+57,2,t4254-sl2-p1993-r330,To Leh Vall Mall,,21104,Route_211
+57,2,t4255-sl2-p1993-r250,To Leh Vall Mall,,21102,Route_211
+57,2,t4256-sl2-p1993-r330,To Leh Vall Mall,,21104,Route_211
+57,2,t4257-sl2-p1993-r250,To Leh Vall Mall,,21102,Route_211
+57,2,t4258-sl2-p1993-r249,To Leh Vall Mall,,21101,Route_211
+57,2,t4259-sl2-p1993-r329,To Leh Vall Mall,,21103,Route_211
+57,2,t4260-sl2-p1993-r249,To Leh Vall Mall,,21101,Route_211
+57,2,t4261-sl2-p1993-r329,To Leh Vall Mall,,21103,Route_211
+57,2,t4262-sl2-p1993-r249,To Leh Vall Mall,,21101,Route_211
+57,2,t4337-sl2-p3779-r329,To Lv Hospital,,21103,Route_211
+57,2,t4339-sl2-p3779-r330,To Lv Hospital,,21104,Route_211
+57,3,t3765-sl3-p1994-r249,To Lv Hospital,,21101,Route_211
+57,3,t3767-sl3-p3776-r329,To Atc,,21103,Route_211
+57,3,t3769-sl3-p1994-r250,To Lv Hospital,,21102,Route_211
+57,3,t3771-sl3-p1994-r252,To Lv Hospital,,21303,Route_211
+57,3,t3773-sl3-p1994-r250,To Lv Hospital,,21102,Route_211
+57,3,t3775-sl3-p1994-r252,To Lv Hospital,,21303,Route_211
+57,3,t3777-sl3-p1994-r250,To Lv Hospital,,21102,Route_211
+57,3,t3779-sl3-p1994-r252,To Lv Hospital,,21303,Route_211
+57,3,t3781-sl3-p3776-r250,To Atc,,21102,Route_211
+57,3,t3783-sl3-p1994-r249,To Lv Hospital,,21101,Route_211
+57,3,t3785-sl3-p1994-r329,To Lv Hospital,,21103,Route_211
+57,3,t3787-sl3-p1994-r249,To Lv Hospital,,21101,Route_211
+57,3,t3789-sl3-p1994-r329,To Lv Hospital,,21103,Route_211
+57,3,t4250-sl3-p1993-r329,To Leh Vall Mall,,21103,Route_211
+57,3,t4251-sl3-p1993-r249,To Leh Vall Mall,,21101,Route_211
+57,3,t4251-sl3-p1993-r250,To Leh Vall Mall,,21102,Route_211
+57,3,t4252-sl3-p1993-r252,To Leh Vall Mall,,21303,Route_211
+57,3,t4253-sl3-p1993-r250,To Leh Vall Mall,,21102,Route_211
+57,3,t4254-sl3-p1993-r252,To Leh Vall Mall,,21303,Route_211
+57,3,t4255-sl3-p1993-r250,To Leh Vall Mall,,21102,Route_211
+57,3,t4256-sl3-p1993-r252,To Leh Vall Mall,,21303,Route_211
+57,3,t4257-sl3-p1993-r250,To Leh Vall Mall,,21102,Route_211
+57,3,t4258-sl3-p1993-r249,To Leh Vall Mall,,21101,Route_211
+57,3,t4259-sl3-p1993-r329,To Leh Vall Mall,,21103,Route_211
+57,3,t4260-sl3-p1993-r249,To Leh Vall Mall,,21101,Route_211
+57,3,t4261-sl3-p1993-r329,To Leh Vall Mall,,21103,Route_211
+57,3,t4262-sl3-p1993-r249,To Leh Vall Mall,,21101,Route_211
+57,3,t4337-sl3-p3779-r329,To Lv Hospital,,21103,Route_211
+57,3,t4527-sl3-p3779-r252,To Lv Hospital,,21303,Route_211
+58,2,t2490-sl2-p1969-r257,To Lehigh West,,21306,Route_213
+58,2,t2498-sl2-p1970-r325,To Amazon,,21309,Route_213
+58,2,t2500-sl2-p1969-r299,To Lehigh West,,21311,Route_213
+58,2,t3379-sl2-p1970-r254,To Amazon,,21307,Route_213
+58,2,t4062-sl2-p1958-r251,To Atc,,21301,Route_213
+58,2,t4063-sl2-p1958-r252,To Atc,,21303,Route_213
+58,2,t4064-sl2-p1958-r251,To Atc,,21301,Route_213
+58,2,t4065-sl2-p1958-r252,To Atc,,21303,Route_213
+58,2,t4066-sl2-p1958-r251,To Atc,,21301,Route_213
+58,2,t4067-sl2-p1958-r256,To Atc,,21304,Route_213
+58,2,t4068-sl2-p1958-r213,To Atc,,10309,Route_213
+58,2,t4068-sl2-p1963-r257,To Atc,,21306,Route_213
+58,2,t4069-sl2-p1958-r255,To Atc,,21302,Route_213
+58,2,t4070-sl2-p2648-r256,To Atc,,21304,Route_213
+58,2,t4071-sl2-p2648-r257,To Atc,,21306,Route_213
+58,2,t4072-sl2-p2648-r255,To Atc,,21302,Route_213
+58,2,t4073-sl2-p1958-r257,To Atc,,21306,Route_213
+58,2,t4074-sl2-p1963-r253,To Atc,,21305,Route_213
+58,2,t4075-sl2-p1963-r299,To Atc,,21311,Route_213
+58,2,t4076-sl2-p1963-r254,To Atc,,21307,Route_213
+58,2,t4077-sl2-p1963-r325,To Atc,,21309,Route_213
+58,2,t4078-sl2-p1958-r252,To Atc,,21303,Route_213
+58,2,t4079-sl2-p1958-r253,To Atc,,21305,Route_213
+58,2,t4080-sl2-p1958-r299,To Atc,,21311,Route_213
+58,2,t4081-sl2-p1958-r254,To Atc,,21307,Route_213
+58,2,t4082-sl2-p1958-r252,To Atc,,21303,Route_213
+58,2,t4083-sl2-p1969-r252,To Lehigh West,,21303,Route_213
+58,2,t4084-sl2-p1969-r251,To Lehigh West,,21301,Route_213
+58,2,t4085-sl2-p1969-r252,To Lehigh West,,21303,Route_213
+58,2,t4086-sl2-p1969-r251,To Lehigh West,,21301,Route_213
+58,2,t4087-sl2-p1969-r256,To Lehigh West,,21304,Route_213
+58,2,t4088-sl2-p1969-r255,To Lehigh West,,21302,Route_213
+58,2,t4089-sl2-p1969-r256,To Lehigh West,,21304,Route_213
+58,2,t4090-sl2-p1969-r257,To Lehigh West,,21306,Route_213
+58,2,t4091-sl2-p1969-r255,To Lehigh West,,21302,Route_213
+58,2,t4092-sl2-p1969-r257,To Lehigh West,,21306,Route_213
+58,2,t4093-sl2-p1970-r299,To Amazon,,21311,Route_213
+58,2,t4094-sl2-p1970-r273,To Amazon,,21803,Route_213
+58,2,t4095-sl2-p1970-r252,To Amazon,,21303,Route_213
+58,2,t4096-sl2-p1970-r253,To Amazon,,21305,Route_213
+58,2,t4097-sl2-p1969-r254,To Lehigh West,,21307,Route_213
+58,2,t4098-sl2-p1969-r252,To Lehigh West,,21303,Route_213
+58,2,t4099-sl2-p1969-r251,To Lehigh West,,21301,Route_213
+58,3,t1818-sl3-p1958-r252,To Atc,,21303,Route_213
+58,3,t2472-sl3-p1958-r255,To Atc,,21302,Route_213
+58,3,t2481-sl3-p2648-r256,To Atc,,21304,Route_213
+58,3,t2486-sl3-p4043-r252,To Lehigh West,,21303,Route_213
+58,3,t2487-sl3-p4043-r256,To Lehigh West,,21304,Route_213
+58,3,t2489-sl3-p4043-r256,To Lehigh West,,21304,Route_213
+58,3,t2491-sl3-p4043-r255,To Lehigh West,,21302,Route_213
+58,3,t2493-sl3-p4043-r256,To Lehigh West,,21304,Route_213
+58,3,t2495-sl3-p4043-r255,To Lehigh West,,21302,Route_213
+58,3,t2497-sl3-p4043-r256,To Lehigh West,,21304,Route_213
+58,3,t2502-sl3-p4043-r251,To Lehigh West,,21301,Route_213
+58,3,t2503-sl3-p4043-r252,To Lehigh West,,21303,Route_213
+58,3,t3549-sl3-p1958-r252,To Atc,,21303,Route_213
+58,3,t3550-sl3-p1958-r256,To Atc,,21304,Route_213
+58,3,t3551-sl3-p1958-r256,To Atc,,21304,Route_213
+58,3,t3552-sl3-p2648-r256,To Atc,,21304,Route_213
+58,3,t3553-sl3-p2648-r255,To Atc,,21302,Route_213
+58,3,t3555-sl3-p1958-r251,To Atc,,21301,Route_213
+59,2,t4100-sl2-p1979-r277,To Lvip I,,21903,Route_219
+59,2,t4102-sl2-p1979-r277,To Lvip I,,21903,Route_219
+59,2,t4103-sl2-p1979-r276,To Lvip I,,21902,Route_219
+59,2,t4104-sl2-p1979-r278,To Lvip I,,21904,Route_219
+59,2,t4106-sl2-p1979-r278,To Lvip I,,21904,Route_219
+59,2,t4107-sl2-p2115-r276,To Lv Mall,,21902,Route_219
+59,2,t4108-sl2-p1979-r275,To Lvip I,,21901,Route_219
+59,2,t4109-sl2-p1979-r277,To Lvip I,,21903,Route_219
+59,2,t4110-sl2-p1979-r275,To Lvip I,,21901,Route_219
+59,2,t4111-sl2-p1979-r277,To Lvip I,,21903,Route_219
+59,2,t4112-sl2-p1979-r275,To Lvip I,,21901,Route_219
+59,2,t4162-sl2-p2114-r275,To Coplay,,21901,Route_219
+59,2,t4163-sl2-p1980-r277,To Egypt,,21903,Route_219
+59,2,t4164-sl2-p1980-r275,To Egypt,,21901,Route_219
+59,2,t4164-sl2-p1980-r276,To Egypt,,21902,Route_219
+59,2,t4165-sl2-p2112-r277,To Lv Mall,,21903,Route_219
+59,2,t4166-sl2-p2114-r276,To Coplay,,21902,Route_219
+59,2,t4167-sl2-p1980-r278,To Egypt,,21904,Route_219
+59,2,t4168-sl2-p1980-r276,To Egypt,,21902,Route_219
+59,2,t4169-sl2-p2112-r278,To Lv Mall,,21904,Route_219
+59,2,t4170-sl2-p1980-r277,To Egypt,,21903,Route_219
+59,2,t4171-sl2-p1980-r275,To Egypt,,21901,Route_219
+59,2,t4173-sl2-p1980-r277,To Egypt,,21903,Route_219
+59,2,t4174-sl2-p1980-r275,To Egypt,,21901,Route_219
+59,2,t4175-sl2-p1980-r277,To Egypt,,21903,Route_219
+59,2,t4447-sl2-p2116-r275,To Lvip I,,21901,Route_219
+59,2,t4448-sl2-p2116-r276,To Lvip I,,21902,Route_219
+59,2,t4528-sl2-p4138-r278,,,21904,
+59,3,t4101-sl3-p1979-r276,To Lvip I,,21902,Route_219
+59,3,t4103-sl3-p1979-r276,To Lvip I,,21902,Route_219
+59,3,t4105-sl3-p1979-r276,To Lvip I,,21902,Route_219
+59,3,t4107-sl3-p2115-r276,To Lv Mall,,21902,Route_219
+59,3,t4110-sl3-p1979-r275,To Lvip I,,21901,Route_219
+59,3,t4112-sl3-p1979-r275,To Lvip I,,21901,Route_219
+59,3,t4112-sl3-p1979-r276,To Lvip I,,21902,Route_219
+59,3,t4162-sl3-p1980-r276,To Egypt,,21902,Route_219
+59,3,t4164-sl3-p1980-r276,To Egypt,,21902,Route_219
+59,3,t4166-sl3-p1980-r276,To Egypt,,21902,Route_219
+59,3,t4168-sl3-p1980-r276,To Egypt,,21902,Route_219
+59,3,t4172-sl3-p2113-r275,To Egypt,,21901,Route_219
+59,3,t4174-sl3-p1980-r275,To Egypt,,21901,Route_219
+60,2,t2532-sl2-p1973-r332,To Kmart,,32203,Route_218
+60,2,t2533-sl2-p1971-r332,To Lccc,,32203,Route_218
+60,2,t2536-sl2-p1973-r338,To Kmart,,21805,Route_218
+60,2,t2537-sl2-p1973-r272,To Kmart,,21801,Route_218
+60,2,t2538-sl2-p1971-r273,To Lccc,,21803,Route_218
+60,2,t2539-sl2-p1973-r272,To Kmart,,21801,Route_218
+60,2,t2541-sl2-p1977-r332,To Atc,,32203,Route_218
+60,2,t3653-sl2-p1973-r338,To Kmart,,21805,Route_218
+60,2,t3744-sl2-p1971-r257,To Lccc,,21306,Route_218
+60,2,t3745-sl2-p1971-r257,To Lccc,,21306,Route_218
+60,2,t3747-sl2-p1977-r257,To Atc,,21306,Route_218
+60,2,t3794-sl2-p1976-r332,To Atc,,32203,Route_218
+60,2,t3795-sl2-p1976-r338,To Atc,,21805,Route_218
+60,2,t3797-sl2-p3531-r338,To Atc,,21805,Route_218
+60,2,t3798-sl2-p1977-r257,To Atc,,21306,Route_218
+60,2,t3799-sl2-p1976-r272,To Atc,,21801,Route_218
+60,2,t3800-sl2-p1976-r272,To Atc,,21801,Route_218
+60,3,t2535-sl3-p1972-r296,To Kmart,,21802,Route_218
+60,3,t2539-sl3-p1972-r303,To Kmart,,61311,Route_218
+60,3,t3796-sl3-p2979-r296,To Atc,,21802,Route_218
+60,3,t3800-sl3-p1975-r303,To Atc,,61311,Route_218
+61,2,t2547-sl2-p2187-r241,To Atc,,21001,Route_210
+61,2,t2548-sl2-p2126-r242,To Lv Mall,,21003,Route_210
+61,2,t2549-sl2-p2126-r247,To Lv Mall,,21002,Route_210
+61,2,t2550-sl2-p2126-r243,To Lv Mall,,21004,Route_210
+61,2,t2551-sl2-p2126-r247,To Lv Mall,,21002,Route_210
+61,2,t2553-sl2-p2126-r243,To Lv Mall,,21004,Route_210
+61,2,t2555-sl2-p2126-r247,To Lv Mall,,21002,Route_210
+61,2,t2556-sl2-p2187-r323,To Atc,,10705,Route_210
+61,2,t2558-sl2-p2126-r243,To Lv Mall,,21004,Route_210
+61,2,t2561-sl2-p2187-r336,To Atc,,32401,Route_210
+61,2,t2563-sl2-p2126-r241,To Lv Mall,,21001,Route_210
+61,2,t2565-sl2-p2126-r242,To Lv Mall,,21003,Route_210
+61,2,t2567-sl2-p2126-r241,To Lv Mall,,21001,Route_210
+61,2,t2568-sl2-p2126-r242,To Lv Mall,,21003,Route_210
+61,2,t2569-sl2-p2125-r242,To South Mall,,21003,Route_210
+61,2,t2570-sl2-p2125-r247,To South Mall,,21002,Route_210
+61,2,t2571-sl2-p2125-r243,To South Mall,,21004,Route_210
+61,2,t2572-sl2-p2125-r247,To South Mall,,21002,Route_210
+61,2,t2573-sl2-p2125-r243,To South Mall,,21004,Route_210
+61,2,t2574-sl2-p2125-r247,To South Mall,,21002,Route_210
+61,2,t2576-sl2-p2125-r243,To South Mall,,21004,Route_210
+61,2,t2578-sl2-p2125-r247,To South Mall,,21002,Route_210
+61,2,t2579-sl2-p2215-r243,To Atc,,21004,Route_210
+61,2,t2580-sl2-p2125-r242,To South Mall,,21003,Route_210
+61,2,t2582-sl2-p2125-r241,To South Mall,,21001,Route_210
+61,2,t2584-sl2-p2125-r242,To South Mall,,21003,Route_210
+61,2,t2585-sl2-p2125-r241,To South Mall,,21001,Route_210
+61,2,t4264-sl2-p2187-r328,To Atc,,32301,Route_210
+61,2,t4529-sl2-p2188-r247,To Lv Mall,,21002,Route_210
+61,3,t2547-sl3-p2126-r241,To Lv Mall,,21001,Route_210
+61,3,t2548-sl3-p2126-r243,To Lv Mall,,21004,Route_210
+61,3,t2549-sl3-p2126-r241,To Lv Mall,,21001,Route_210
+61,3,t2550-sl3-p2126-r243,To Lv Mall,,21004,Route_210
+61,3,t2551-sl3-p2126-r247,To Lv Mall,,21002,Route_210
+61,3,t2553-sl3-p2126-r243,To Lv Mall,,21004,Route_210
+61,3,t2555-sl3-p2126-r247,To Lv Mall,,21002,Route_210
+61,3,t2559-sl3-p2188-r243,To Lv Mall,,21004,Route_210
+61,3,t2563-sl3-p2126-r241,To Lv Mall,,21001,Route_210
+61,3,t2565-sl3-p2126-r242,To Lv Mall,,21003,Route_210
+61,3,t2567-sl3-p2126-r241,To Lv Mall,,21001,Route_210
+61,3,t2568-sl3-p2126-r242,To Lv Mall,,21003,Route_210
+61,3,t2569-sl3-p2125-r242,To South Mall,,21003,Route_210
+61,3,t2569-sl3-p2125-r243,To South Mall,,21004,Route_210
+61,3,t2570-sl3-p2125-r241,To South Mall,,21001,Route_210
+61,3,t2571-sl3-p2125-r243,To South Mall,,21004,Route_210
+61,3,t2572-sl3-p2125-r241,To South Mall,,21001,Route_210
+61,3,t2573-sl3-p2125-r243,To South Mall,,21004,Route_210
+61,3,t2574-sl3-p2125-r247,To South Mall,,21002,Route_210
+61,3,t2576-sl3-p2125-r243,To South Mall,,21004,Route_210
+61,3,t2578-sl3-p2125-r247,To South Mall,,21002,Route_210
+61,3,t2580-sl3-p2125-r242,To South Mall,,21003,Route_210
+61,3,t2582-sl3-p2125-r241,To South Mall,,21001,Route_210
+61,3,t2584-sl3-p2125-r242,To South Mall,,21003,Route_210
+61,3,t2585-sl3-p2125-r241,To South Mall,,21001,Route_210
+61,3,t4347-sl3-p2187-r243,To Atc,,21004,Route_210
+62,2,t2586-sl2-p2118-r268,To  Lvip Iii,,21501,Route_215
+62,2,t2586-sl2-p2118-r269,To  Lvip Iii,,21502,Route_215
+62,2,t2587-sl2-p2118-r270,To  Lvip Iii,,21503,Route_215
+62,2,t2588-sl2-p2118-r269,To  Lvip Iii,,21502,Route_215
+62,2,t2589-sl2-p2118-r270,To  Lvip Iii,,21503,Route_215
+62,2,t2589-sl2-p2118-r271,To  Lvip Iii,,21504,Route_215
+62,2,t2590-sl2-p2118-r269,To  Lvip Iii,,21502,Route_215
+62,2,t2591-sl2-p2118-r271,To  Lvip Iii,,21504,Route_215
+62,2,t2592-sl2-p2118-r269,To  Lvip Iii,,21502,Route_215
+62,2,t2593-sl2-p2117-r271,To Schoens&avec,,21504,Route_215
+62,2,t2594-sl2-p2980-r269,To  Brd&guetter,,21502,Route_215
+62,2,t2595-sl2-p2118-r268,To  Lvip Iii,,21501,Route_215
+62,2,t2595-sl2-p4141-r232,,,10503,
+62,2,t2596-sl2-p2118-r270,To  Lvip Iii,,21503,Route_215
+62,2,t2597-sl2-p2118-r268,To  Lvip Iii,,21501,Route_215
+62,2,t2598-sl2-p2118-r270,To  Lvip Iii,,21503,Route_215
+62,2,t2607-sl2-p2119-r270,To Hellertown,,21503,Route_215
+62,2,t4127-sl2-p2120-r270,To Hellertown,,21503,Route_215
+62,2,t4128-sl2-p2120-r269,To Hellertown,,21502,Route_215
+62,2,t4129-sl2-p2120-r270,To Hellertown,,21503,Route_215
+62,2,t4130-sl2-p2120-r269,To Hellertown,,21502,Route_215
+62,2,t4131-sl2-p2120-r271,To Hellertown,,21504,Route_215
+62,2,t4132-sl2-p2120-r269,To Hellertown,,21502,Route_215
+62,2,t4133-sl2-p2120-r271,To Hellertown,,21504,Route_215
+62,2,t4134-sl2-p2120-r269,To Hellertown,,21502,Route_215
+62,2,t4135-sl2-p2120-r268,To Hellertown,,21501,Route_215
+62,2,t4136-sl2-p2120-r270,To Hellertown,,21503,Route_215
+62,2,t4137-sl2-p2120-r268,To Hellertown,,21501,Route_215
+62,2,t4530-sl2-p2129-r232,,,10503,
+62,3,t2586-sl3-p2118-r268,To  Lvip Iii,,21501,Route_215
+62,3,t2586-sl3-p2118-r269,To  Lvip Iii,,21502,Route_215
+62,3,t2587-sl3-p2118-r270,To  Lvip Iii,,21503,Route_215
+62,3,t2588-sl3-p2118-r269,To  Lvip Iii,,21502,Route_215
+62,3,t2589-sl3-p2118-r270,To  Lvip Iii,,21503,Route_215
+62,3,t2589-sl3-p2118-r271,To  Lvip Iii,,21504,Route_215
+62,3,t2590-sl3-p2118-r269,To  Lvip Iii,,21502,Route_215
+62,3,t2591-sl3-p2118-r271,To  Lvip Iii,,21504,Route_215
+62,3,t2592-sl3-p2118-r269,To  Lvip Iii,,21502,Route_215
+62,3,t2593-sl3-p2117-r271,To Schoens&avec,,21504,Route_215
+62,3,t2594-sl3-p2980-r269,To  Brd&guetter,,21502,Route_215
+62,3,t2595-sl3-p2118-r268,To  Lvip Iii,,21501,Route_215
+62,3,t2595-sl3-p4141-r230,,,10501,
+62,3,t2596-sl3-p2118-r270,To  Lvip Iii,,21503,Route_215
+62,3,t2597-sl3-p2118-r268,To  Lvip Iii,,21501,Route_215
+62,3,t2598-sl3-p2118-r270,To  Lvip Iii,,21503,Route_215
+62,3,t2607-sl3-p2119-r270,To Hellertown,,21503,Route_215
+62,3,t2607-sl3-p2129-r230,,,10501,
+62,3,t4127-sl3-p2120-r270,To Hellertown,,21503,Route_215
+62,3,t4128-sl3-p2120-r269,To Hellertown,,21502,Route_215
+62,3,t4129-sl3-p2120-r270,To Hellertown,,21503,Route_215
+62,3,t4130-sl3-p2120-r269,To Hellertown,,21502,Route_215
+62,3,t4131-sl3-p2120-r271,To Hellertown,,21504,Route_215
+62,3,t4132-sl3-p2120-r269,To Hellertown,,21502,Route_215
+62,3,t4133-sl3-p2120-r271,To Hellertown,,21504,Route_215
+62,3,t4134-sl3-p2120-r269,To Hellertown,,21502,Route_215
+62,3,t4135-sl3-p2120-r268,To Hellertown,,21501,Route_215
+62,3,t4136-sl3-p2120-r270,To Hellertown,,21503,Route_215
+62,3,t4137-sl3-p2120-r268,To Hellertown,,21501,Route_215
+63,2,t2613-sl2-p2111-r281,To Lv Mall,,32102,Route_321
+63,2,t2614-sl2-p2111-r281,To Lv Mall,,32102,Route_321
+63,2,t3748-sl2-p2110-r331,To Brodhead&191,,32101,Route_321
+63,2,t3749-sl2-p2110-r331,To Brodhead&191,,32101,Route_321
+64,2,t4265-sl2-p2109-r282,To Atc,,32201,Route_322
+64,2,t4266-sl2-p2109-r282,To Atc,,32201,Route_322
+64,2,t4267-sl2-p2109-r283,To Atc,,32202,Route_322
+64,2,t4268-sl2-p2109-r333,To Atc,,32204,Route_322
+64,2,t4269-sl2-p2109-r283,To Atc,,32202,Route_322
+64,2,t4270-sl2-p2109-r333,To Atc,,32204,Route_322
+64,2,t4271-sl2-p2109-r283,To Atc,,32202,Route_322
+64,2,t4272-sl2-p2109-r333,To Atc,,32204,Route_322
+64,2,t4273-sl2-p2109-r282,To Atc,,32201,Route_322
+64,2,t4274-sl2-p2109-r332,To Atc,,32203,Route_322
+64,2,t4275-sl2-p2109-r282,To Atc,,32201,Route_322
+64,2,t4276-sl2-p2109-r332,To Atc,,32203,Route_322
+64,2,t4277-sl2-p2010-r282,To Amazon,,32201,Route_322
+64,2,t4278-sl2-p2010-r282,To Amazon,,32201,Route_322
+64,2,t4279-sl2-p2010-r283,To Amazon,,32202,Route_322
+64,2,t4280-sl2-p2010-r333,To Amazon,,32204,Route_322
+64,2,t4281-sl2-p2010-r283,To Amazon,,32202,Route_322
+64,2,t4282-sl2-p2010-r333,To Amazon,,32204,Route_322
+64,2,t4283-sl2-p2010-r283,To Amazon,,32202,Route_322
+64,2,t4284-sl2-p2010-r333,To Amazon,,32204,Route_322
+64,2,t4285-sl2-p2010-r282,To Amazon,,32201,Route_322
+64,2,t4286-sl2-p2010-r332,To Amazon,,32203,Route_322
+64,2,t4287-sl2-p2010-r282,To Amazon,,32201,Route_322
+64,2,t4288-sl2-p2010-r332,To Amazon,,32203,Route_322
+65,2,t4531-sl2-p4044-r341,To Lv Mall,,60301,Route_603
+65,2,t4533-sl2-p4044-r341,To Lv Mall,,60301,Route_603
+65,2,t4535-sl2-p4044-r341,To Lv Mall,,60301,Route_603
+65,2,t4537-sl2-p4044-r341,To Lv Mall,,60301,Route_603
+65,2,t4540-sl2-p4044-r288,To Lv Mall,,60302,Route_603
+65,2,t4542-sl2-p4044-r288,To Lv Mall,,60302,Route_603
+65,2,t4544-sl2-p4044-r288,To Lv Mall,,60302,Route_603
+65,2,t4545-sl2-p4140-r205,,,10209,
+65,2,t4545-sl2-p4144-r341,,,60301,
+65,2,t4546-sl2-p4044-r341,To Lv Mall,,60301,Route_603
+65,2,t4547-sl2-p4044-r341,To Lv Mall,,60301,Route_603
+65,2,t4550-sl2-p2006-r341,To Elm&15th,,60301,Route_603
+65,2,t4552-sl2-p2006-r341,To Elm&15th,,60301,Route_603
+65,2,t4554-sl2-p2006-r341,To Elm&15th,,60301,Route_603
+65,2,t4556-sl2-p2006-r341,To Elm&15th,,60301,Route_603
+65,2,t4558-sl2-p4142-r341,,,60301,
+65,2,t4559-sl2-p4139-r277,,,21903,
+65,2,t4561-sl2-p2006-r288,To Elm&15th,,60302,Route_603
+65,2,t4563-sl2-p2006-r288,To Elm&15th,,60302,Route_603
+65,2,t4565-sl2-p2006-r288,To Elm&15th,,60302,Route_603
+65,2,t4566-sl2-p2006-r341,To Elm&15th,,60301,Route_603
+65,2,t4567-sl2-p2006-r341,To Elm&15th,,60301,Route_603
+65,2,t4568-sl2-p2006-r341,To Elm&15th,,60301,Route_603
+65,3,t4532-sl3-p4044-r251,To Lv Mall,,21301,Route_603
+65,3,t4534-sl3-p4044-r251,To Lv Mall,,21301,Route_603
+65,3,t4536-sl3-p4044-r251,To Lv Mall,,21301,Route_603
+65,3,t4538-sl3-p4044-r251,To Lv Mall,,21301,Route_603
+65,3,t4539-sl3-p4044-r296,To Lv Mall,,21802,Route_603
+65,3,t4541-sl3-p4044-r341,To Lv Mall,,60301,Route_603
+65,3,t4543-sl3-p4044-r341,To Lv Mall,,60301,Route_603
+65,3,t4548-sl3-p4044-r251,To Lv Mall,,21301,Route_603
+65,3,t4549-sl3-p2006-r251,To Elm&15th,,21301,Route_603
+65,3,t4551-sl3-p2006-r251,To Elm&15th,,21301,Route_603
+65,3,t4553-sl3-p2006-r251,To Elm&15th,,21301,Route_603
+65,3,t4555-sl3-p2006-r251,To Elm&15th,,21301,Route_603
+65,3,t4557-sl3-p2006-r296,To Elm&15th,,21802,Route_603
+65,3,t4560-sl3-p2006-r296,To Elm&15th,,21802,Route_603
+65,3,t4562-sl3-p2006-r341,To Elm&15th,,60301,Route_603
+65,3,t4564-sl3-p2006-r341,To Elm&15th,,60301,Route_603
+66,2,t2640-sl2-p2075-r286,To Kmart,,60201,
+66,2,t2642-sl2-p2075-r286,To Kmart,,60201,
+66,2,t2644-sl2-p2075-r286,To Kmart,,60201,
+66,2,t2646-sl2-p2075-r286,To Kmart,,60201,
+66,2,t2648-sl2-p2075-r286,To Kmart,,60201,
+66,2,t2650-sl2-p2075-r286,To Kmart,,60201,
+66,2,t2652-sl2-p2075-r286,To Kmart,,60201,
+66,2,t2654-sl2-p2075-r287,To Kmart,,60202,
+66,2,t2656-sl2-p2075-r287,To Kmart,,60202,
+66,2,t2658-sl2-p2075-r287,To Kmart,,60202,
+66,2,t2660-sl2-p2075-r287,To Kmart,,60202,
+66,2,t2662-sl2-p2075-r287,To Kmart,,60202,
+66,2,t2664-sl2-p2075-r287,To Kmart,,60202,
+66,2,t2666-sl2-p2075-r287,To Kmart,,60202,
+66,2,t2668-sl2-p2075-r287,To Kmart,,60202,
+66,2,t2670-sl2-p2075-r287,To Kmart,,60202,
+66,2,t2671-sl2-p2075-r287,To Kmart,,60202,
+66,2,t2672-sl2-p2075-r286,To Kmart,,60201,
+66,2,t2673-sl2-p2075-r286,To Kmart,,60201,
+66,2,t2674-sl2-p2075-r286,To Kmart,,60201,
+66,2,t2675-sl2-p2075-r286,To Kmart,,60201,
+66,2,t2676-sl2-p2075-r286,To Kmart,,60201,
+66,2,t2677-sl2-p2075-r286,To Kmart,,60201,
+66,2,t2678-sl2-p2075-r286,To Kmart,,60201,
+66,2,t2679-sl2-p2075-r286,To Kmart,,60201,
+66,2,t4449-sl2-p2075-r287,To Kmart,,60202,
+66,2,t4450-sl2-p2075-r287,To Kmart,,60202,
+66,2,t4451-sl2-p2075-r287,To Kmart,,60202,
+66,2,t4452-sl2-p2075-r287,To Kmart,,60202,
+66,2,t4453-sl2-p2075-r287,To Kmart,,60202,
+66,3,t2640-sl3-p2075-r286,To Kmart,,60201,
+66,3,t2642-sl3-p2075-r286,To Kmart,,60201,
+66,3,t2644-sl3-p2075-r286,To Kmart,,60201,
+66,3,t2646-sl3-p2075-r286,To Kmart,,60201,
+66,3,t2648-sl3-p2075-r286,To Kmart,,60201,
+66,3,t2650-sl3-p2075-r286,To Kmart,,60201,
+66,3,t2652-sl3-p2075-r286,To Kmart,,60201,
+66,3,t2654-sl3-p2075-r287,To Kmart,,60202,
+66,3,t2656-sl3-p2075-r287,To Kmart,,60202,
+66,3,t2658-sl3-p2075-r287,To Kmart,,60202,
+66,3,t2660-sl3-p2075-r287,To Kmart,,60202,
+66,3,t2662-sl3-p2075-r287,To Kmart,,60202,
+66,3,t2664-sl3-p2075-r287,To Kmart,,60202,
+66,3,t2666-sl3-p2075-r287,To Kmart,,60202,
+66,3,t2668-sl3-p2075-r287,To Kmart,,60202,
+66,3,t2670-sl3-p2075-r287,To Kmart,,60202,
+66,3,t2671-sl3-p2075-r287,To Kmart,,60202,
+66,3,t2672-sl3-p2075-r286,To Kmart,,60201,
+66,3,t2673-sl3-p2075-r286,To Kmart,,60201,
+66,3,t2674-sl3-p2075-r286,To Kmart,,60201,
+66,3,t2675-sl3-p2075-r286,To Kmart,,60201,
+66,3,t2676-sl3-p2075-r286,To Kmart,,60201,
+66,3,t2677-sl3-p2075-r286,To Kmart,,60201,
+66,3,t2678-sl3-p2075-r286,To Kmart,,60201,
+66,3,t2679-sl3-p2075-r286,To Kmart,,60201,
+66,3,t4449-sl3-p2075-r287,To Kmart,,60202,
+66,3,t4450-sl3-p2075-r287,To Kmart,,60202,
+66,3,t4451-sl3-p2075-r287,To Kmart,,60202,
+66,3,t4452-sl3-p2075-r287,To Kmart,,60202,
+66,3,t4453-sl3-p2075-r287,To Kmart,,60202,
+66,4,t2639-sl4-p2075-r286,To Kmart,,60201,
+66,4,t2641-sl4-p2075-r286,To Kmart,,60201,
+66,4,t2643-sl4-p2075-r286,To Kmart,,60201,
+66,4,t2645-sl4-p2075-r286,To Kmart,,60201,
+66,4,t2647-sl4-p2075-r286,To Kmart,,60201,
+66,4,t2649-sl4-p2075-r286,To Kmart,,60201,
+66,4,t2651-sl4-p2075-r286,To Kmart,,60201,
+66,4,t2653-sl4-p2075-r286,To Kmart,,60201,
+66,4,t2655-sl4-p2075-r286,To Kmart,,60201,
+66,4,t2657-sl4-p2075-r286,To Kmart,,60201,
+66,4,t2659-sl4-p2075-r286,To Kmart,,60201,
+66,4,t2661-sl4-p2075-r286,To Kmart,,60201,
+66,4,t2663-sl4-p2075-r286,To Kmart,,60201,
+66,4,t2665-sl4-p2075-r286,To Kmart,,60201,
+66,4,t2667-sl4-p2075-r286,To Kmart,,60201,
+66,4,t2669-sl4-p2075-r286,To Kmart,,60201,
+67,2,t3614-sl2-p1986-r328,To Atc,,32301,Route_323
+67,2,t4289-sl2-p1986-r242,To Atc,,21003,Route_323
+67,2,t4290-sl2-p3781-r249,To Atc - Dev&ox,,21101,Route_323
+67,2,t4292-sl2-p1986-r333,To Atc,,32204,Route_323
+67,2,t4293-sl2-p1985-r242,To Psu Lv,,21003,Route_323
+67,2,t4295-sl2-p2990-r328,To Psu Lv-Dev&ox,,32301,Route_323
+67,2,t4357-sl2-p1986-r335,To Atc,,32303,Route_323
+67,2,t4358-sl2-p4035-r259,To Corppkwy,,41101,Route_323
+67,2,t4359-sl2-p1985-r335,To Psu Lv,,32303,Route_323
+67,2,t4360-sl2-p1985-r259,To Psu Lv,,41101,Route_323
+69,2,t2747-sl2-p2052-r297,To Broad&guetter,,60402,Route_604
+69,2,t2748-sl2-p2052-r342,To Broad&guetter,,60403,Route_604
+69,2,t2749-sl2-p2052-r342,To Broad&guetter,,60403,Route_604
+69,2,t2750-sl2-p2052-r289,To Broad&guetter,,60401,Route_604
+69,2,t2751-sl2-p2052-r289,To Broad&guetter,,60401,Route_604
+69,2,t2752-sl2-p2052-r289,To Broad&guetter,,60401,Route_604
+69,2,t2753-sl2-p2052-r289,To Broad&guetter,,60401,Route_604
+69,2,t2754-sl2-p1983-r297,To Salisbry Work,,60402,Route_604
+69,2,t2755-sl2-p1983-r342,To Salisbry Work,,60403,Route_604
+69,2,t2756-sl2-p1983-r342,To Salisbry Work,,60403,Route_604
+69,2,t2757-sl2-p1983-r342,To Salisbry Work,,60403,Route_604
+69,2,t2758-sl2-p1983-r269,To Salisbry Work,,21502,Route_604
+69,2,t2759-sl2-p1983-r289,To Salisbry Work,,60401,Route_604
+69,2,t2760-sl2-p1983-r289,To Salisbry Work,,60401,Route_604
+69,2,t2761-sl2-p1983-r289,To Salisbry Work,,60401,Route_604
+69,3,t2752-sl3-p2052-r251,To Broad&guetter,,21301,Route_604
+69,3,t2755-sl3-p1983-r297,To Salisbry Work,,60402,Route_604
+70,2,t3357-sl2-p2066-r179,To Plmr Ind Prk,,21401,Route_214
+70,2,t3358-sl2-p2066-r298,To Plmr Ind Prk,,21403,Route_214
+70,2,t4570-sl2-p2065-r298,To Forks Plaza,,21403,Route_214
+70,2,t4572-sl2-p2065-r298,To Forks Plaza,,21403,Route_214
+70,2,t4574-sl2-p2065-r298,To Forks Plaza,,21403,Route_214
+70,2,t4575-sl2-p2064-r298,,,21403,
+70,2,t4577-sl2-p2066-r295,To Plmr Ind Prk,,21402,Route_214
+70,2,t4579-sl2-p2066-r295,To Plmr Ind Prk,,21402,Route_214
+70,2,t4580-sl2-p2065-r298,To Forks Plaza,,21403,Route_214
+70,2,t4583-sl2-p2065-r298,To Forks Plaza,,21403,Route_214
+70,2,t4585-sl2-p1997-r298,To Shiloh Manor,,21403,Route_214
+70,2,t4587-sl2-p1997-r298,To Shiloh Manor,,21403,Route_214
+70,2,t4589-sl2-p1997-r298,To Shiloh Manor,,21403,Route_214
+70,2,t4591-sl2-p1997-r298,To Shiloh Manor,,21403,Route_214
+70,2,t4592-sl2-p4143-r298,,,21403,
+70,2,t4594-sl2-p4143-r295,,,21402,
+70,2,t4595-sl2-p4143-r295,,,21402,
+70,2,t4597-sl2-p4143-r179,,,21401,
+70,2,t4598-sl2-p1997-r298,To Shiloh Manor,,21403,Route_214
+70,2,t4600-sl2-p1997-r298,To Shiloh Manor,,21403,Route_214
+70,3,t3351-sl3-p2065-r179,To Forks Plaza,,21401,Route_214
+70,3,t3366-sl3-p1997-r179,To Shiloh Manor,,21401,Route_214
+70,3,t3366-sl3-p1997-r295,To Shiloh Manor,,21402,Route_214
+70,3,t4569-sl3-p2065-r179,To Forks Plaza,,21401,Route_214
+70,3,t4571-sl3-p2065-r179,To Forks Plaza,,21401,Route_214
+70,3,t4573-sl3-p2065-r179,To Forks Plaza,,21401,Route_214
+70,3,t4576-sl3-p2065-r295,To Forks Plaza,,21402,Route_214
+70,3,t4578-sl3-p2065-r295,To Forks Plaza,,21402,Route_214
+70,3,t4581-sl3-p2063-r179,To Forks Plaza,,21401,Route_214
+70,3,t4582-sl3-p2065-r179,To Forks Plaza,,21401,Route_214
+70,3,t4584-sl3-p1997-r179,To Shiloh Manor,,21401,Route_214
+70,3,t4586-sl3-p1997-r179,To Shiloh Manor,,21401,Route_214
+70,3,t4588-sl3-p1997-r179,To Shiloh Manor,,21401,Route_214
+70,3,t4590-sl3-p1997-r179,To Shiloh Manor,,21401,Route_214
+70,3,t4593-sl3-p1997-r295,To Shiloh Manor,,21402,Route_214
+70,3,t4596-sl3-p4147-r295,,,21402,
+70,3,t4599-sl3-p1997-r179,To Shiloh Manor,,21401,Route_214
+82,2,t4341-sl2-p3533-r273,To Atc,,21803,Route_613
+82,3,t3627-sl3-p3533-r303,To Atc,,61311,Route_613
+82,3,t3628-sl3-p2711-r303,To Atc,,61311,Route_613
+82,3,t3631-sl3-p2713-r303,To Penn&olin,,61311,Route_613
+82,3,t4145-sl3-p3534-r303,To Amazon,,61311,Route_613
+82,4,t3627-sl4-p3533-r234,To Atc,,10701,Route_613
+82,4,t3628-sl4-p2711-r234,To Atc,,10701,Route_613
+82,4,t3631-sl4-p2713-r234,To Penn&olin,,10701,Route_613
+82,4,t4039-sl4-p2982-r198,To Atc,,10202,Route_613
+82,4,t4041-sl4-p2712-r198,To Penn&olin,,10202,Route_613
+82,4,t4145-sl4-p3534-r234,To Amazon,,10701,Route_613
+83,2,t4306-sl2-p3771-r337,To Lv Airport,,32402,Route_324
+83,2,t4307-sl2-p3771-r337,To Lv Airport,,32402,Route_324
+83,2,t4308-sl2-p3771-r336,To Lv Airport,,32401,Route_324
+83,2,t4309-sl2-p3771-r336,To Lv Airport,,32401,Route_324
+83,2,t4454-sl2-p3772-r337,To Atc,,32402,Route_324
+83,2,t4455-sl2-p3772-r337,To Atc,,32402,Route_324
+83,2,t4456-sl2-p3772-r336,To Atc,,32401,Route_324
+83,2,t4457-sl2-p3772-r336,To Atc,,32401,Route_324

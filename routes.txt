@@ -1,0 +1,29 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+44,0,107,107 - Crest Plaza-Hanover Ave,,3,,008B90,FFFFFF
+45,0,101,101 - Easton - Bethlehem,,3,,005596,FFFFFF
+46,0,220,220 - A-B-E,,3,,A1C332,FFFFFF
+47,0,102,102 - Union Blvd - Lv Hosp Cc,,3,,009BDF,FFFFFF
+48,0,103,103 - Susquehanna - Northampton,,3,,6D6E71,FFFFFF
+49,0,104,104 - Emmaus - Lv Mall,,3,,1DB14C,FFFFFF
+50,0,106,106 - S Easton - Northampton St,,3,,007738,FFFFFF
+51,0,216,216 - S Easton - Nazareth Rd,,3,,FDB813,FFFFFF
+52,0,108,108 - Fountain Hill - East Hills,,3,,832990,FFFFFF
+53,0,212,212 - Fountain Hill - Rt 33 P&r,,3,,F47920,FFFFFF
+54,0,105,105 - S Bethlehem - Lv Mall,,3,,FDB813,FFFFFF
+55,0,217,217 - Slate Belt,,3,,878200,FFFFFF
+56,0,209,209 - Walbert Ave,,3,,ED1C24,FFFFFF
+57,0,211,211 - Presidential Village,,3,,EC008C,FFFFFF
+58,0,213,213 - Fogelsville - Lv West,,3,,878200,FFFFFF
+59,0,219,219 - East Catty - Egypt,,3,,A1C332,FFFFFF
+60,0,218,218 - Lccc - Slatington,,3,,832990,FFFFFF
+61,0,210,210 - Lehigh St - Fullerton Ave,,3,,005596,FFFFFF
+62,0,215,215 - Hellertown - Lvip Iii,,3,,8B0304,FFFFFF
+63,0,321,321 - Lv Mall - Lvip Iv,,3,,832990,FFFFFF
+64,0,322,322 - Hamilton Blvd,,3,,FDB813,FFFFFF
+65,0,603,603 - 17th St Crosstown,,3,,F47920,FFFFFF
+66,0,602,602 - Whirlybird,,3,,007738,FFFFFF
+67,0,323,323 - Stabler Center - Psu Lv,,3,,F47920,FFFFFF
+69,0,604,604 - Riverside Drive,,3,,1DB14C,FFFFFF
+70,0,214,214 - Shiloh Manor - Palmer Indu,,3,,ED1C24,FFFFFF
+82,0,613,613 - Lv West Direct,,3,,878200,FFFFFF
+83,0,324,324 - Airport - Lvip I,,3,,EC008C,FFFFFF
