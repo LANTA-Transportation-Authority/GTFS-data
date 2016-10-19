@@ -1,42 +1,30 @@
-route_long_name,route_type,route_text_color,route_color,agency_id,route_id,route_url,route_desc,route_short_name
-215 - Hellertown - Lvip Iii,3,FFFFFF,8B0304,0,62_merged_3032,,,215
-S Easton - Nazareth Rd,3,FFFFFF,FDB813,0,51_merged_3030,,,216
-105 - S Bethlehem - Lv Mall,3,FFFFFF,FDB813,0,54_merged_3040,,,105
-101 - Easton - Bethlehem,3,FFFFFF,005596,0,45_merged_3038,,,101
-218 - Fogelsville,3,FFFFFF,832990,0,60,,,218
-Lv Mall - Lvip Iv,3,FFFFFF,832990,0,63,,,321
-322 - Hamilton Blvd,3,FFFFFF,FDB813,0,64,,,322
-Whirlybird,3,FFFFFF,007738,0,66,,,602
-604 - Riverside Drive,3,FFFFFF,1DB14C,0,69,,,604
-613 - Lv West Direct,3,FFFFFF,878200,0,82,,,613
-324 - Airport - Lvip I,3,FFFFFF,EC008C,0,83,,,324
-605 - Bethlehem Shuttle,3,FFFFFF,FF82BD,0,86,,,605
-325 - Lvm - Egypt - Lccc - Slati,3,FFFFFF,EC55A0,0,84,,,325
-Easton - Bethlehem,3,FFFFFF,005596,0,45_merged_3027,,,101
-210 - Lehigh St - Fullerton Ave,3,FFFFFF,005596,0,61_merged_3031,,,210
-104 - Emmaus - Lv Mall,3,FFFFFF,1DB14C,0,49_merged_3036,,,104
-102 - Union Blvd - Lv Hosp Cc,3,FFFFFF,009BDF,0,47,,,102
-107 - Crest Plaza-Hanover Ave,3,FFFFFF,008B90,0,44,,,107
-A-B-E,3,FFFFFF,A1C332,0,46_merged_3026,,,220
-323 - Stabler Center - Psu Lv,3,FFFFFF,F47920,0,67_merged_3034,,,323
-17th St Crosstown,3,FFFFFF,F47920,0,65_merged_3022,,,603
-Susquehanna - Northampton,3,FFFFFF,6D6E71,0,48_merged_3024,,,103
-216 - S Easton - Nazareth Rd,3,FFFFFF,FDB813,0,51_merged_3041,,,216
-East Catty - Egypt,3,FFFFFF,A1C332,0,59,,,219
-Shiloh Manor - Palmer Industrial Park,3,FFFFFF,ED1C24,0,70_merged_3028,,,214
-Lehigh St - Fullerton Ave,3,FFFFFF,005596,0,61_merged_3020,,,210
-213 - Breinigsville - Lv West,3,FFFFFF,878200,0,58,,,213
-Emmaus - Lv Mall,3,FFFFFF,1DB14C,0,49_merged_3025,,,104
-Slate Belt,3,FFFFFF,878200,0,55,,,217
-211 - Presidential Village,3,FFFFFF,EC008C,0,57,,,211
-209 - Walbert Ave,3,FFFFFF,ED1C24,0,56,,,209
-S Easton - Northampton St,3,FFFFFF,007738,0,50,,,106
-Fountain Hill - Rt 33 P&r,3,FFFFFF,F47920,0,53,,,212
-Fountain Hill - East Hills,3,FFFFFF,832990,0,52,,,108
-Stabler Center - Psu Lv,3,FFFFFF,F47920,0,67_merged_3023,,,323
-603 - 17th St Crosstown,3,FFFFFF,F47920,0,65_merged_3033,,,603
-S Bethlehem - Lv Mall,3,FFFFFF,FDB813,0,54_merged_3029,,,105
-Hellertown - Lvip Iii,3,FFFFFF,8B0304,0,62_merged_3021,,,215
-220 - A-B-E,3,FFFFFF,A1C332,0,46_merged_3037,,,220
-214 - Shiloh Manor - Palmer Indu,3,FFFFFF,ED1C24,0,70_merged_3039,,,214
-103 - Susquehanna - Northampton,3,FFFFFF,6D6E71,0,48_merged_3035,,,103
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+44,0,"107","107 - Crest Plaza-Hanover Ave",,3,,008B90,FFFFFF
+45,0,"101","101 - Easton - Bethlehem",,3,,005596,FFFFFF
+46,0,"220","220 - A-B-E",,3,,A1C332,FFFFFF
+47,0,"102","102 - Union Blvd - Lv Hosp Cc",,3,,009BDF,FFFFFF
+48,0,"103","103 - Susquehanna - Northampton",,3,,6D6E71,FFFFFF
+49,0,"104","104 - Emmaus - Lv Mall",,3,,1DB14C,FFFFFF
+50,0,"106","S Easton - Northampton St",,3,,007738,FFFFFF
+51,0,"216","216 - S Easton - Nazareth Rd",,3,,FDB813,FFFFFF
+52,0,"108","Fountain Hill - East Hills",,3,,832990,FFFFFF
+53,0,"212","Fountain Hill - Rt 33 P&r",,3,,F47920,FFFFFF
+54,0,"105","105 - S Bethlehem - Lv Mall",,3,,FDB813,FFFFFF
+55,0,"217","Slate Belt",,3,,878200,FFFFFF
+56,0,"209","209 - Walbert Ave",,3,,ED1C24,FFFFFF
+57,0,"211","211 - Presidential Village",,3,,EC008C,FFFFFF
+58,0,"213","213 - Breinigsville - Lv West",,3,,878200,FFFFFF
+60,0,"218","218 - Fogelsville",,3,,832990,FFFFFF
+61,0,"210","210 - Lehigh St - Fullerton Ave",,3,,005596,FFFFFF
+62,0,"215","215 - Hellertown - Lvip Iii",,3,,8B0304,FFFFFF
+64,0,"322","322 - Hamilton Blvd",,3,,FDB813,FFFFFF
+65,0,"603","603 - 17th St Crosstown",,3,,F47920,FFFFFF
+66,0,"602","Whirlybird",,3,,007738,FFFFFF
+67,0,"323","323 - Stabler Center - Psu Lv",,3,,F47920,FFFFFF
+69,0,"604","604 - Riverside Drive",,3,,1DB14C,FFFFFF
+70,0,"214","214 - Shiloh Manor - Palmer Indu",,3,,ED1C24,FFFFFF
+82,0,"613","613 - Lv West Direct",,3,,878200,FFFFFF
+83,0,"324","324 - Airport - Lvip I",,3,,EC008C,FFFFFF
+84,0,"325","325 - Lvm - Egypt - Lccc - Slati",,3,,EC55A0,FFFFFF
+85,0,"319","319 - Lv Mall - Bethlehem Sq",,3,,00B050,FFFFFF
+86,0,"605","605 - Bethlehem Shuttle",,3,,FF82BD,FFFFFF
