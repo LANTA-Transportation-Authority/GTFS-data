@@ -1,8 +1,8 @@
 # LANTA GTFS Static Feed
 LANta GTFS data feed  
-**Updated**: 10/13/2016
-**Data effective**: October 26, 2016
-**Date expires**: February 02, 2016
-
+**Updated**: 01/26/2017
+**Data effective**: 01, 23, 2017
+**Date expires**: July 10, 2017
+See http://lantabus.com/jan23 for a summary of changes
 For any questions or concerns, please email sschrayer@lantabus-pa.gov
-- Updated due to incorrect service level assignment
+- Updates Routes: 101, 105, 106, 107, 214, 220, 325
