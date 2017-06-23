@@ -4,11 +4,12 @@ route_long_name,route_type,route_text_color,route_color,agency_id,route_id,route
 215 - Hellertown - Lvip Iii,3,FFFFFF,8B0304,0,62,,,215
 322 - Hamilton Blvd,3,FFFFFF,FDB813,0,64,,,322
 603 - 17th St Crosstown,3,FFFFFF,F47920,0,65,,,603
-Whirlybird,3,FFFFFF,007738,0,66,,,602
 323 - Stabler Center - Psu Lv,3,FFFFFF,F47920,0,67,,,323
 613 - Lv West Direct,3,FFFFFF,878200,0,82,,,613
 324 - Airport - Lvip I,3,FFFFFF,EC008C,0,83,,,324
+602 - Whirly Bird,3,FFFFFF,007738,0,66_merged_3054,,,602
 605 - Bethlehem Shuttle,3,FFFFFF,FF82BD,0,86,,,605
+Whirlybird,3,FFFFFF,007738,0,66_merged_3053,,,602
 325 - Lvm - Egypt - Lccc - Slati,3,FFFFFF,EC55A0,0,84,,,325
 319 - Lv Mall - Bethlehem Sq,3,FFFFFF,00B050,0,85,,,319
 103 - Susquehanna - Northampton,3,FFFFFF,6D6E71,0,48,,,103
@@ -17,10 +18,8 @@ Whirlybird,3,FFFFFF,007738,0,66,,,602
 102 - Union Blvd - Lv Hosp Cc,3,FFFFFF,009BDF,0,47,,,102
 107 - Crest Plaza-Hanover Ave,3,FFFFFF,008B90,0,44,,,107
 101 - Easton - Bethlehem,3,FFFFFF,005596,0,45,,,101
-214 - Easton Tc - Palmer Industr,3,FFFFFF,ED1C24,0,70_merged_3022,,,214
-214 - Shiloh Manor - Palmer Indu,3,FFFFFF,ED1C24,0,70_merged_3020,,,214
-S Easton - Northampton St,3,FFFFFF,007738,0,50_merged_3021,,,106
-106 - S Easton - Northampton St,3,FFFFFF,007738,0,50_merged_3023,,,106
+327 - Lvip Iv - Hanover Road,3,FFFFFF,FF5500,0,87,,,327
+214 - Easton Tc - Palmer Industr,3,FFFFFF,ED1C24,0,70,,,214
 604 - Riverside Drive,3,FFFFFF,1DB14C,0,69,,,604
 213 - Breinigsville - Lv West,3,FFFFFF,878200,0,58,,,213
 Slate Belt,3,FFFFFF,878200,0,55,,,217
@@ -28,5 +27,6 @@ Slate Belt,3,FFFFFF,878200,0,55,,,217
 211 - Presidential Village,3,FFFFFF,EC008C,0,57,,,211
 209 - Walbert Ave,3,FFFFFF,ED1C24,0,56,,,209
 216 - S Easton - Nazareth Rd,3,FFFFFF,FDB813,0,51,,,216
+106 - S Easton - Northampton St,3,FFFFFF,007738,0,50,,,106
 Fountain Hill - Rt 33 P&r,3,FFFFFF,F47920,0,53,,,212
 Fountain Hill - East Hills,3,FFFFFF,832990,0,52,,,108

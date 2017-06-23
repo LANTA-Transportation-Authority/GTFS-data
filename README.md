@@ -1,8 +1,8 @@
 # LANTA GTFS Static Feed
 LANta GTFS data feed  
-**Updated**: 2/16/2017
-**Data effective**: 01, 23, 2017
-**Date expires**: July 10, 2017
-See http://lantabus.com/jan23 for a summary of changes
+**Updated**: 6/23/2017
+**Data effective**: 06, 23, 2017
+**Date expires**: Sept 30, 2017
 For any questions or concerns, please email sschrayer@lantabus-pa.gov
-- Updates Routes: Updated version #
+## Updates
+- Added Route 327
