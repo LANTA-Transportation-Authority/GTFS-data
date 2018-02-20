@@ -1,8 +1,8 @@
 # LANTA GTFS Static Feed
 LANta GTFS data feed  
-**Updated**: 10/23/2017
-** Feed start**: 20171024
-** Feed End**: 20180304
+**Updated**: 1/8/2018
+** Feed start**: 20180109
+** Feed End**: 20180611
 For any questions or concerns, please email sschrayer@lantabus-pa.gov
 ## Updates
-- Updated incorrect link on Route 103
+- Visit http://lantabus.com/jan8 for summary of route updates

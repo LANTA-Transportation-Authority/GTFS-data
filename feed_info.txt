@@ -1,2 +1,2 @@
 feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
-LANTA,http://www.lantabus.com/,en,20171024,20180304,20171023
+LANTA,http://www.lantabus.com/,en,20180108,20180611,20171229
