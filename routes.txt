@@ -6,7 +6,6 @@ route_long_name,route_type,route_text_color,route_color,agency_id,route_id,route
 603 - 17th St Crosstown,3,FFFFFF,F47920,0,65,,,603
 602 - Whirley Bird,3,FFFFFF,007738,0,66,,,602
 323 - Stabler Center - Psu Lv,3,FFFFFF,F47920,0,67,,,323
-613 - Lv West Direct,3,FFFFFF,878200,0,82,,,613
 324 - Airport - Lvip I,3,FFFFFF,EC008C,0,83,,,324
 605 - Bethlehem Shuttle,3,FFFFFF,FF82BD,0,86,,,605
 327 - Lvip Iv - Hanover Road,3,FFFFFF,FF5500,0,87,,,327
