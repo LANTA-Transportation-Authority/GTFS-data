@@ -19,7 +19,6 @@ route_long_name,route_type,route_text_color,route_color,agency_id,route_id,route
 101 - Easton - Bethlehem,3,FFFFFF,005596,0,45,,,101
 214 - Easton Tc - Palmer Industr,3,FFFFFF,ED1C24,0,70,,,214
 213 - Breinigsville - Lv West,3,FFFFFF,878200,0,58,,,213
-Slate Belt,3,FFFFFF,878200,0,55,,,217
 105 - S Bethlehem - Lv Mall,3,FFFFFF,FDB813,0,54,,,105
 211 - Presidential Village,3,FFFFFF,EC008C,0,57,,,211
 209 - Walbert Ave,3,FFFFFF,ED1C24,0,56,,,209
@@ -27,3 +26,5 @@ Slate Belt,3,FFFFFF,878200,0,55,,,217
 106 - S Easton - Northampton St,3,FFFFFF,007738,0,50,,,106
 Fountain Hill - Rt 33 P&r,3,FFFFFF,F47920,0,53,,,212
 Fountain Hill - East Hills,3,FFFFFF,832990,0,52,,,108
+217 - Slate Belt,3,FFFFFF,878200,0,55_merged_3025,,,217
+Slate Belt,3,FFFFFF,878200,0,55_merged_3024,,,217
