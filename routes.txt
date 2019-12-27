@@ -2,6 +2,7 @@ route_long_name,route_type,route_text_color,route_color,agency_id,route_id,route
 218 - Fogelsville,3,FFFFFF,832990,0,60,,,218
 210 - Lehigh St - Fullerton Ave,3,FFFFFF,005596,0,61,,,210
 215 - Hellertown - Lvip Iii,3,FFFFFF,8B0304,0,62,,,215
+322 - Hamilton Blvd,3,FFFFFF,FDB813,0,64,,,322
 603 - 17th St Crosstown,3,FFFFFF,F47920,0,65,,,603
 602 - Whirley Bird,3,FFFFFF,007738,0,66,,,602
 323 - Stabler Center - Psu Lv,3,FFFFFF,F47920,0,67,,,323
@@ -32,5 +33,3 @@ route_long_name,route_type,route_text_color,route_color,agency_id,route_id,route
 106 - S Easton - Northampton St,3,FFFFFF,007738,0,50,,,106
 212 - Fountain Hill - Rt 33 P&r,3,FFFFFF,F47920,0,53,,,212
 108 - Fountain Hill - East Hills,3,FFFFFF,832990,0,52,,,108
-322 - Hamilton Blvd,3,FFFFFF,FDB813,0,64_merged_3089,,,322
-322 - Hamilton Blvd,3,000000,FDB813,0,64_merged_3088,,,322
