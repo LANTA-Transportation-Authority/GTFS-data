@@ -1,2 +1,2 @@
-agency_phone,agency_fare_url,agency_url,agency_id,agency_name,agency_timezone,agency_lang
-610-776-7433,http://www.lantabus.com/fares.html,http://www.lantabus.com,0,LANTA,America/New_York,en
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+0,LANTA,http://www.lantabus.com,America/New_York,en,610-776-7433,http://www.lantabus.com/fares.html
