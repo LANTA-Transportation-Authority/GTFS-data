@@ -103,5 +103,3 @@ service_id,date,exception_type
 9,20200926,1
 9,20200925,1
 9,20200924,1
-Memorial Day,20210531,1
-Easter,20210404,1
