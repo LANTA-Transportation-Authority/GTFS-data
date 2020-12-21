@@ -1,28 +1,56 @@
-route_long_name,route_type,route_text_color,route_color,agency_id,route_id,route_url,route_desc,route_short_name
-218 - Fogelsville,3,FFFFFF,832990,0,60,,,218
-210 - Lehigh St - Fullerton Ave,3,FFFFFF,005596,0,61,,,210
-215 - Hellertown - Lvip Iii,3,FFFFFF,8B0304,0,62,,,215
-322 - Hamilton Blvd,3,FFFFFF,FDB813,0,64,,,322
-603 - 17th St Crosstown,3,FFFFFF,F47920,0,65,,,603
-602 - Whirley Bird,3,FFFFFF,007738,0,66,,,602
-323 - Stabler Center - Psu Lv,3,FFFFFF,F47920,0,67,,,323
-324 - Airport - Lvip I,3,FFFFFF,EC008C,0,83,,,324
-605 - Bethlehem Shuttle,3,000000,FF82BD,0,86,,,605
-325 - Lvm - Egypt - Lccc - Slati,3,000000,EC55A0,0,84,,,325
-319 - Lv Mall - Bethlehem Sq,3,FFFFFF,00B050,0,85,,,319
-103 - Susquehanna - Northampton,3,FFFFFF,6D6E71,0,48,,,103
-104 - Emmaus - Lv Mall,3,FFFFFF,1DB14C,0,49,,,104
-220 - A-B-E,3,000000,A1C332,0,46,,,220
-102 - Union Blvd - Lv Hosp Cc,3,FFFFFF,009BDF,0,47,,,102
-107 - Crest Plaza-Hanover Ave,3,FFFFFF,008B90,0,44,,,107
-101 - Easton - Bethlehem,3,FFFFFF,005596,0,45,,,101
-214 - Easton Tc - Palmer Industr,3,FFFFFF,ED1C24,0,70,,,214
-213 - Breinigsville - Lv West,3,FFFFFF,878200,0,58,,,213
-217 - Slate Belt,3,FFFFFF,878200,0,55,,,217
-105 - S Bethlehem - Lv Mall,3,FFFFFF,FDB813,0,54,,,105
-211 - Presidential Village,3,FFFFFF,EC008C,0,57,,,211
-209 - Walbert Ave,3,FFFFFF,ED1C24,0,56,,,209
-216 - S Easton - Nazareth Rd,3,FFFFFF,FDB813,0,51,,,216
-106 - S Easton - Northampton St,3,FFFFFF,007738,0,50,,,106
-212 - Fountain Hill - Rt 33 P&r,3,FFFFFF,F47920,0,53,,,212
-108 - Fountain Hill - East Hills,3,FFFFFF,832990,0,52,,,108
+route_long_name,route_type,route_text_color,agency_id,route_id,route_color,route_desc,route_url,route_short_name,route_sort_order
+216 - S Easton - Nazareth Rd,3,FFFFFF,1,216,FDB813,,,216 - S Easton - Nazareth Rd,
+217 - Slate Belt,3,FFFFFF,1,217,878200,,,217 - Slate Belt,
+214 - Easton TC - Palmer Industr,3,FFFFFF,1,214,ED1C24,,,214 - Easton TC - Palmer Industr,
+215 - Hellertown - LVIP III,3,FFFFFF,1,215,8B0304,,,215 - Hellertown - LVIP III,
+212 - Fountain Hill - Rt 33 P&R,3,000000,1,212,F47920,,,212 - Fountain Hill - Rt 33 P&R,
+213 - Breinigsville - LV West,3,FFFFFF,1,213,878200,,,213 - Breinigsville - LV West,
+603 - 17th St Crosstown,3,FFFFFF,1,603,F47920,,,603 - 17th St Crosstown,
+211 - Presidential Village,3,FFFFFF,1,211,EC008C,,,211 - Presidential Village,
+319 - LV Mall - Bethlehem Sq,3,FFFFFF,1,319,00B050,,,319 - LV Mall - Bethlehem Sq,
+218 - Fogelsville,3,FFFFFF,1,218,832990,,,218 - Fogelsville,
+218 - Fogelsville,3,FFFFFF,0,60,832990,,,218,
+210 - Lehigh St - Fullerton Ave,3,FFFFFF,0,61,005596,,,210,
+215 - Hellertown - Lvip Iii,3,FFFFFF,0,62,8B0304,,,215,
+322 - Hamilton Blvd,3,FFFFFF,0,64,FDB813,,,322,
+603 - 17th St Crosstown,3,FFFFFF,0,65,F47920,,,603,
+602 - Whirley Bird,3,FFFFFF,0,66,007738,,,602,
+323 - Stabler Center - Psu Lv,3,FFFFFF,0,67,F47920,,,323,
+324 - Airport - Lvip I,3,FFFFFF,0,83,EC008C,,,324,
+605 - Bethlehem Shuttle,3,000000,0,86,FF82BD,,,605,
+325 - Lvm - Egypt - Lccc - Slati,3,000000,0,84,EC55A0,,,325,
+319 - Lv Mall - Bethlehem Sq,3,FFFFFF,0,85,00B050,,,319,
+210 - Lehigh St - Fullerton Ave,3,FFFFFF,1,210,005596,,,210 - Lehigh St - Fullerton Ave,
+103 - Susquehanna - Northampton,3,FFFFFF,0,48,6D6E71,,,103,
+104 - Emmaus - Lv Mall,3,FFFFFF,0,49,1DB14C,,,104,
+220 - A-B-E,3,000000,0,46,A1C332,,,220,
+102 - Union Blvd - Lv Hosp Cc,3,FFFFFF,0,47,009BDF,,,102,
+107 - Crest Plaza-Hanover Ave,3,FFFFFF,0,44,008B90,,,107,
+101 - Easton - Bethlehem,3,FFFFFF,0,45,005596,,,101,
+322 - Hamilton Blvd,3,FFFFFF,1,322,FDB813,,,322 - Hamilton Blvd,
+323 - Stabler Center - PSU LV,3,FFFFFF,1,323,F47920,,,323 - Stabler Center - PSU LV,
+324 - Airport - LVIP I,3,FFFFFF,1,324,EC008C,,,324 - Airport - LVIP I,
+325 - LVM - Egypt - LCCC - Slati,3,FFFFFF,1,325,EC55A0,,,325 - LVM - Egypt - LCCC - Slati,
+105 - S Bethlehem - LV Mall,3,FFFFFF,1,105,FDB813,,,105 - S Bethlehem - LV Mall,
+209 - Walbert Ave,3,FFFFFF,1,209,ED1C24,,,209 - Walbert Ave,
+108 - Fountain Hill - East Hills,3,FFFFFF,1,108,832990,,,108 - Fountain Hill - East Hills,
+602 - Whirley Bird,3,FFFFFF,1,602,007738,,,602 - Whirley Bird,
+214 - Easton Tc - Palmer Industr,3,FFFFFF,0,70,ED1C24,,,214,
+102 - Union Blvd - LV Hosp CC,3,FFFFFF,1,102,009BDF,,,102 - Union Blvd - LV Hosp CC,
+90 - Test Route,3,FFFFFF,1,90,000000,,,90 - Test Route,
+101 - Easton - Bethlehem,3,FFFFFF,1,101,005596,,,101 - Easton - Bethlehem,
+106 - S Easton - Northampton St,3,FFFFFF,1,106,007738,,,106 - S Easton - Northampton St,
+107 - Crest Plaza-Hanover Ave,3,FFFFFF,1,107,008B90,,,107 - Crest Plaza-Hanover Ave,
+104 - Emmaus - LV Mall,3,FFFFFF,1,104,1DB14C,,,104 - Emmaus - LV Mall,
+220 - A-B-E,3,FFFFFF,1,220,A1C332,,,220 - A-B-E,
+213 - Breinigsville - Lv West,3,FFFFFF,0,58,878200,,,213,
+217 - Slate Belt,3,FFFFFF,0,55,878200,,,217,
+105 - S Bethlehem - Lv Mall,3,FFFFFF,0,54,FDB813,,,105,
+211 - Presidential Village,3,FFFFFF,0,57,EC008C,,,211,
+209 - Walbert Ave,3,FFFFFF,0,56,ED1C24,,,209,
+216 - S Easton - Nazareth Rd,3,FFFFFF,0,51,FDB813,,,216,
+106 - S Easton - Northampton St,3,FFFFFF,0,50,007738,,,106,
+212 - Fountain Hill - Rt 33 P&r,3,FFFFFF,0,53,F47920,,,212,
+108 - Fountain Hill - East Hills,3,FFFFFF,0,52,832990,,,108,
+103 - Susquehanna - Northampton,3,FFFFFF,1,103,6D6E71,,,103 - Susquehanna - Northampton,
+605 - Bethlehem Shuttle,3,000000,1,605,FF82BD,,,605 - Bethlehem Shuttle,
