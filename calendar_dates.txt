@@ -1,0 +1,5 @@
+service_id,date,exception_type
+Labor Day,20210906,1
+Weekday_merged_36037,20210906,2
+Independence Day,20210704,1
+Sunday_merged_36036,20210704,2

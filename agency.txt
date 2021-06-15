@@ -1,3 +1,2 @@
 agency_phone,agency_fare_url,agency_url,agency_id,agency_name,agency_timezone,agency_lang,agency_email
-610-776-7433,http://www.lantabus.com/fares.html,http://www.lantabus.com,1_merged_3108,LANTA,America/New_York,en,
-6104354517,https://lantabus.com/fares,https://lantabus.com,1_merged_3109,LANTA,America/New_York,en,customerservice@lantabus.com
+6104354517,https://lantabus.com/fares,https://lantabus.com,1_merged_31844,LANTA,America/New_York,en,customerservice@lantabus.com
