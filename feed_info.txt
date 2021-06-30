@@ -1,2 +1,2 @@
 feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email,feed_contact_url
-,,,,,,,
+LANTA,https://github.com/LANTA-Transportation-Authority/GTFS-data,en,20210104,20210930,,customerservice@lantabus.com,https://github.com/LANTA-Transportation-Authority/GTFS-data
