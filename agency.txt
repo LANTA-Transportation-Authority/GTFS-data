@@ -1,2 +1,2 @@
-agency_phone,agency_fare_url,agency_url,agency_id,agency_name,agency_timezone,agency_lang,agency_email
-888-253-8333,https://lantabus.com/fares,https://lantabus.com,1,LANTA,America/New_York,en,customerservice@lantabus.com
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
+1,LANTA,https://www.lantabus.com/,America/New_York,en,888-253-8333,https://www.lantabus.com/fares/,customerservice@lantabus.com

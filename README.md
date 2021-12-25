@@ -1,7 +1,7 @@
 # LANTA GTFS Static Feed
-**Updated**: 08/23/2021
-**Feed start**: 08/23/2021
-**Feed End**: 01/04/2021
+**Updated**: 12/23/2021
+**Feed start**: 12/23/2021
+**Feed End**: 06/019/2022
 For any questions or concerns, please email sschrayer@lantabus-pa.gov
 ## Updates
-EBS phase 1 - Rt 101 enhanced stops only between allentown and bethlehem, other minor alignment and schedule changes
+Continues existing September 2021 service until June
