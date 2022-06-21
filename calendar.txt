@@ -1,4 +1,8 @@
-service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-Weekday,1,1,1,1,1,0,0,20211223,20220619
-Saturday,0,0,0,0,0,1,0,20211223,20220619
-Sunday,0,0,0,0,0,0,1,20211223,20220619
+service_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday
+Weekday_merged_671277,20211223,20220619,1,1,1,1,1,0,0
+"Mon, Wed, Fri",20220620,20220911,1,0,1,0,1,0,0
+Weekday_merged_671280,20220620,20220911,0,1,0,1,0,0,0
+Sunday_merged_671279,20220620,20220911,0,0,0,0,0,0,1
+Saturday_merged_671281,20220620,20220911,0,0,0,0,0,1,0
+Saturday_merged_671278,20211223,20220619,0,0,0,0,0,1,0
+Sunday_merged_671276,20211223,20220619,0,0,0,0,0,0,1

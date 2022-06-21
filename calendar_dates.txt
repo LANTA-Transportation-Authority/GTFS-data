@@ -1,6 +1,10 @@
 service_id,date,exception_type
-Saturday,20220101,2
-Sunday,20220101,1
-Sunday,20220530,1
-Weekday,20220530,2
-Saturday,20221225,2
+Weekday_merged_671277,20220530,2
+"Mon, Wed, Fri",20220704,2
+"Mon, Wed, Fri",20220905,2
+Sunday_merged_671279,20220704,1
+Sunday_merged_671279,20220905,1
+Saturday_merged_671278,20221225,2
+Saturday_merged_671278,20220101,2
+Sunday_merged_671276,20220101,1
+Sunday_merged_671276,20220530,1
